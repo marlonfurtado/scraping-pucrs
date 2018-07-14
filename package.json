@@ -1,0 +1,25 @@
+{
+  "name": "scraping-pucrs",
+  "version": "1.0.0",
+  "description": "Scraping PUCRS courses",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonfurtado/scraping-pucrs.git"
+  },
+  "author": "Marlon Furtado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marlonfurtado/scraping-pucrs/issues"
+  },
+  "homepage": "https://github.com/marlonfurtado/scraping-pucrs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.11",
+    "request": "^2.83.0"
+  }
+}
