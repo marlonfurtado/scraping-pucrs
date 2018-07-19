@@ -16,7 +16,7 @@ app.get('/:school/:course', (req, res) => {
 
   const url = `http://www.pucrs.br/${school}/curso/${course}/#curriculos`
 
-  request(url, (err, res, body) => {
+  request(url, (err, r, body) => {
     if (err) return console.error(err)
 
     const $ = cheerio.load(body)
@@ -34,6 +34,7 @@ app.get('/:school/:course', (req, res) => {
                        value.discipline !== '' &&
                        value.hours !== '')
 
+      res.send(JSON.stringify(data))
       console.log('\n\n JSON RESULT: \n\n', JSON.stringify(data))
   })
 })
@@ -76,6 +77,8 @@ app.get('/all', (req, res) => {
         })
       }
     })
+
+    res.send('LOADING DATA... Check the /results folder in project.')
 })
 
 function _readCourses() {
