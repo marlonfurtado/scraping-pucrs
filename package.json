@@ -4,7 +4,7 @@
   "description": "Scraping PUCRS courses",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/marlonfurtado/scraping-pucrs#readme",
   "dependencies": {
+    "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
-    "nodemon": "^1.14.11",
     "request": "^2.83.0"
   }
 }
