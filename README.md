@@ -1,23 +1,46 @@
 # scraping-pucrs
 > Scraping PUCRS courses
 
-## Running
-
-1. Install dependencies: `npm install`
-2. Start app: `npm start`
-3. Access http://localhost:3000/:school/:course  
-   Example: http://localhost:3000/politecnica/engenharia-de-software  
-
-
-## Results
-
-#### Page:
-**PUCRS:** http://www.pucrs.br/politecnica/curso/engenharia-de-software/#curriculos  
-**Local:** http://localhost:3000/politecnica/engenharia-de-software
-
-
-#### Results:  
-Examples here: https://github.com/marlonfurtado/scraping-pucrs/tree/master/examples  
-
+## What is  
+A script application to get the course and discipline information from the PUCRS website.  
   
-![engenharia-de-software](examples/engenharia-de-software.png)
+  
+## Why  
+Currently PUCRS does not offer an efficient API to access the data of the disciplines and courses.  
+So this application aims to scrape data from the university website and make available in JSON files to facilitate the development of any application for the academic community.  
+  
+  
+## How do  
+#### Running
+``` bash
+# install dependencies
+npm install
+
+# serve at localhost:3000
+npm start
+```
+#### Routes
+- `localhost:3000/:school/:course`  
+
+    http://localhost:3000/politecnica/engenharia-de-software  
+    > return an array of objects with infos about course schedule  
+    ```
+    [{
+      "school": "politecnica",
+      "course": "engenharia-de-software",
+      "semester": "1",
+      "code": "4115H-04",
+      "discipline": "Cálculo A",
+      "hours": "60"
+      }, ...
+    ]
+    ```
+
+
+- `localhost:3000/all`  
+
+   http://localhost:3000/all  
+   Create 60 json files with infos about all courses in */results* folder   
+   Acces the files [here](results/)
+
+
