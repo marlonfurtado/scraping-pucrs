@@ -1,0 +1,456 @@
+[{
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "31154-04",
+  "discipline": "Anatomia Humana",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "31322-02",
+  "discipline": "Farmacobotânica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "35312-02",
+  "discipline": "Introdução À Profissão Farmacêutica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "43182-02",
+  "discipline": "Laboratório de Química Geral",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "4110X-02",
+  "discipline": "Matemática Aplicada à Farmácia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "4220J-02",
+  "discipline": "Princípios de Física Aplic. à Farmácia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "4311P-04",
+  "discipline": "Química Geral",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "1",
+  "code": "4310D-04",
+  "discipline": "Química Orgânica I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "4120V-02",
+  "discipline": "Bioestatística A",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "3121V-02",
+  "discipline": "Biofísica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "3144A-04",
+  "discipline": "Biologia Celular e Genética",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "3121S-04",
+  "discipline": "Bioquímica Estrutural",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "35349-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "1255W-01",
+  "discipline": "Exame de Proficiência em Língua Inglesa",
+  "hours": "15"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "35202-04",
+  "discipline": "Farmacognosia",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "4312K-02",
+  "discipline": "Físico-Química Farmacêutica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "31156-03",
+  "discipline": "Histologia e Embriologia Geral",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "2",
+  "code": "43168-04",
+  "discipline": "Química Orgânica II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "3121T-04",
+  "discipline": "Bioquímica Metabólica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "35203-04",
+  "discipline": "Farmacotécnica e Tecnologia de Sólidos",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "3121P-06",
+  "discipline": "Fisiologia Humana",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "31224-04",
+  "discipline": "Microbiologia Básica e de Alimentos",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "31336-02",
+  "discipline": "Parasitologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "3",
+  "code": "4320M-06",
+  "discipline": "Química Analítica",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35348-02",
+  "discipline": "Assistência Farmacêutica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35306-04",
+  "discipline": "Ciências Farmacológicas e Toxicol. I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35154-04",
+  "discipline": "Diagnostico Molecular",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35212-04",
+  "discipline": "Farmacotécnica e Tecnologia de Líquidos",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "31329-03",
+  "discipline": "Imunologia",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35183-04",
+  "discipline": "Microbiologia Clínica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "35141-02",
+  "discipline": "Parasitologia Clínica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "33236-02",
+  "discipline": "Patologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "4",
+  "code": "36121-02",
+  "discipline": "Trabalho Integrado em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35232-04",
+  "discipline": "Análise Biofarmacêutica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35136-04",
+  "discipline": "Bioquímica Clínica I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35347-04",
+  "discipline": "Ciências Farmacol. e Toxicológicas II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35234-02",
+  "discipline": "Desenvolvimento de Fármacos",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35352-02",
+  "discipline": "Est. Análises Clin. e Toxicológicas (60h)",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35239-03",
+  "discipline": "Farm. e Tec. de Sist. Disp e de Lib. Mod.",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35124-06",
+  "discipline": "Imunologia Clínica",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "5",
+  "code": "35241-04",
+  "discipline": "Química Farmacêutica I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35137-04",
+  "discipline": "Bioquímica Clínica II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "4320A-04",
+  "discipline": "Ciência dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35344-04",
+  "discipline": "Ciências Farmacológicas e Toxic. III",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35345-02",
+  "discipline": "Est. Farm. Comunit. e Gest. Farmac. (90h)",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35327-04",
+  "discipline": "Farmácia Hospitalar",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35138-02",
+  "discipline": "Gest. e Garantia da Qualidade Farmac.",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35126-04",
+  "discipline": "Hematologia Clínica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "6",
+  "code": "35242-04",
+  "discipline": "Química Farmacêutica II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35346-06",
+  "discipline": "Atenção Farmacêutica e Farmácia Clínica",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35251-02",
+  "discipline": "Biofármacos e Processos Biotecnológicos",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35235-04",
+  "discipline": "Controle de Qualidade Físico-Químico",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35226-03",
+  "discipline": "Cosmetologia",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35361-03",
+  "discipline": "Est. em Farm. Hosp. e Alimentos (105h)",
+  "hours": "105"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35204-04",
+  "discipline": "Farmacotécnica Homeopática",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "7",
+  "code": "35128-04",
+  "discipline": "Hematologia e Citologia Clínica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35131-02",
+  "discipline": "Análises Toxicológicas",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35372-00",
+  "discipline": "Atividades Complementares (105h)",
+  "hours": "105"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35236-04",
+  "discipline": "Controle da Qualidade Biológico",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35332-02",
+  "discipline": "Deontologia e Legislação Farmacêutica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35351-03",
+  "discipline": "Est. em Farm. de Man. e Ind. Med.  (105h)",
+  "hours": "105"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "15099-04",
+  "discipline": "Filosofia e Bioética",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "8",
+  "code": "35364-02",
+  "discipline": "Terapia Nutric. e Misturas Intravenosas",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FARMACIA",
+  "semester": "9",
+  "code": "35365-10",
+  "discipline": "Estágio Final e Tcc (415h)",
+  "hours": "415"
+}]

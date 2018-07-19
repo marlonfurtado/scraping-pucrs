@@ -1,0 +1,407 @@
+[{
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "33411-04",
+  "discipline": "Aproximação À Prática Médica",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "3143T-04",
+  "discipline": "Fund. de Genética, Biolog. Molec. e Celular",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "31514-10",
+  "discipline": "Fundamentos Anatômicos I",
+  "hours": "150"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "31613-08",
+  "discipline": "Fundamentos Bioquímicos e Biofísicos I",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "31515-06",
+  "discipline": "Fundamentos Morfológicos I",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "1",
+  "code": "31701-04",
+  "discipline": "Fundamentos da Relação Parasita - Hospedeiro I",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "33005-00",
+  "discipline": "Atividades Complementares (120 Horas)",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "33007-12",
+  "discipline": "Disciplina Eletiva",
+  "hours": "180"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "1255W-01",
+  "discipline": "Exame de Proficiência em Língua Inglesa",
+  "hours": "15"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "31516-10",
+  "discipline": "Fundamentos Anatômicos II",
+  "hours": "150"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "31614-08",
+  "discipline": "Fundamentos Bioquímicos e Biofísicos II",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "31518-08",
+  "discipline": "Fundamentos Fisiológicos I",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "31517-06",
+  "discipline": "Fundamentos Morfológicos II",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "2",
+  "code": "31702-04",
+  "discipline": "Fundamentos da Relação Parasita - Hospedeiro II",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "31520-06",
+  "discipline": "Bases da Terapêutica I",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "15099-04",
+  "discipline": "Filosofia e Bioética",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "31519-08",
+  "discipline": "Fundamentos Fisiológicos II",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "33249-02",
+  "discipline": "Fundamentos em Pesquisa",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "31615-02",
+  "discipline": "Imunologia Básica",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "33901-08",
+  "discipline": "Patologia Básica",
+  "hours": "120"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "3",
+  "code": "36121-02",
+  "discipline": "Trabalho Integrado em Saúde",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "3121F-06",
+  "discipline": "Bases da Terapêutica II",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "33146-02",
+  "discipline": "Imunologia Clínica",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "33525-04",
+  "discipline": "Mente e Cérebro I",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "33902-06",
+  "discipline": "Patologia Aplicada",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "33143-16",
+  "discipline": "Propedêutica Médica I",
+  "hours": "240"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "4",
+  "code": "33720-03",
+  "discipline": "Saúde Coletiva I",
+  "hours": "45"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33732-02",
+  "discipline": "Epidemiologia",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33526-04",
+  "discipline": "Mente e Cérebro II",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33532-02",
+  "discipline": "Neuropsicobiologia do Desenvolvimento e Suas Patologias",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33139-19",
+  "discipline": "Propedêutica Médica II",
+  "hours": "285"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33722-05",
+  "discipline": "Saúde Coletiva II",
+  "hours": "75"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "5",
+  "code": "33241-02",
+  "discipline": "Seminários em Morfologia Aplicada I",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33809-04",
+  "discipline": "Fundamentos em Ginecologia e Obstetrícia",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33900-02",
+  "discipline": "Fundamentos em Imagem",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33412-04",
+  "discipline": "Fundamentos em Pediatria",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33242-02",
+  "discipline": "Laboratório de Habilidades I",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33042-03",
+  "discipline": "Pesquisa Translacional",
+  "hours": "45"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33144-14",
+  "discipline": "Prática em Saúde do Adulto e do Idoso",
+  "hours": "210"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33243-02",
+  "discipline": "Seminários em Morfologia Aplicada II",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33245-04",
+  "discipline": "Trauma e Emergência",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "6",
+  "code": "33244-06",
+  "discipline": "Técnica Operatória",
+  "hours": "90"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33246-18",
+  "discipline": "Clínica Cirúrgica",
+  "hours": "270"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33145-18",
+  "discipline": "Clínica Médica",
+  "hours": "270"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33247-02",
+  "discipline": "Laboratório de Habilidades II",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33413-16",
+  "discipline": "Saúde da Criança e do Adolescente",
+  "hours": "240"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33810-16",
+  "discipline": "Saúde da Mulher",
+  "hours": "240"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "7",
+  "code": "33043-02",
+  "discipline": "Seminários Integradores I",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "8",
+  "code": "33529-02",
+  "discipline": "Medicina Legal e Deontologia Médica",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "8",
+  "code": "33533-02",
+  "discipline": "Raciocínio Clínico - Epidemiológico",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "8",
+  "code": "33044-02",
+  "discipline": "Seminários Integradores II",
+  "hours": "30"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "9",
+  "code": "33045-26",
+  "discipline": "Internato I (615 Horas)",
+  "hours": "615"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "10",
+  "code": "33046-26",
+  "discipline": "Internato II (615 Horas)",
+  "hours": "615"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "10",
+  "code": "33047-26",
+  "discipline": "Internato III (615 Horas)",
+  "hours": "615"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "11",
+  "code": "33048-26",
+  "discipline": "Internato IV (615 Horas)",
+  "hours": "615"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "12",
+  "code": "33049-26",
+  "discipline": "Internato V (615 Horas)",
+  "hours": "615"
+}, {
+  "school": "MEDICINA",
+  "course": "MEDICINA",
+  "semester": "12",
+  "code": "33050-22",
+  "discipline": "Internato VI (525 Horas)",
+  "hours": "525"
+}]

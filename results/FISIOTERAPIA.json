@@ -1,0 +1,400 @@
+[{
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "1",
+  "code": "31152-04",
+  "discipline": "Anatomia de Orgãos e Sistemas",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "1",
+  "code": "3121L-04",
+  "discipline": "Biofísica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "1",
+  "code": "3121M-04",
+  "discipline": "BioquÍmica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "1",
+  "code": "36364-04",
+  "discipline": "Fundamentos de Fisioterapia I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "1",
+  "code": "31528-03",
+  "discipline": "Histologia e Embriologia geral",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "2",
+  "code": "31155-06",
+  "discipline": "Anatomia Músculo - Esquelética",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "2",
+  "code": "31499-02",
+  "discipline": "Biologia Celular e Genética",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "2",
+  "code": "3121P-06",
+  "discipline": "Fisiologia Humana",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "2",
+  "code": "36373-04",
+  "discipline": "Fundamentos da Fisioterapia II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "36366-06",
+  "discipline": "Aspectos Clínicos da Neurofunção",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "36374-04",
+  "discipline": "Cinesiologia I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "3121R-02",
+  "discipline": "Farmacologia Básica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "31357-02",
+  "discipline": "Imunologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "36375-02",
+  "discipline": "Inovação e Desenvolvimento em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "31358-02",
+  "discipline": "Microbiologia e Parasitologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "3",
+  "code": "33237-02",
+  "discipline": "Patologia Básica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "36376-06",
+  "discipline": "Cinesiologia II",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "36370-04",
+  "discipline": "Eletrofototermoterapia",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "15099-04",
+  "discipline": "Filosofia e Bioética",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "36377-02",
+  "discipline": "Fundamentos Clínicos do Método Pilates",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "36343-02",
+  "discipline": "Processo de Trabalho em Fisioterapia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "4",
+  "code": "36387-04",
+  "discipline": "Recursos Terapêuticos Manuais",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36378-03",
+  "discipline": "Cinesioterapia I",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36351-04",
+  "discipline": "Fisioterapia Dermatofuncional",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36368-06",
+  "discipline": "Fisioterapia Funcional",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36340-04",
+  "discipline": "Fisioterapia Músculo - Esquelética I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36341-04",
+  "discipline": "Fisioterapia Neurofuncional I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36339-03",
+  "discipline": "Prática Assistida em Fisio. do Mov. Hum. I",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "5",
+  "code": "36379-02",
+  "discipline": "Vivências em Pilates",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36348-02",
+  "discipline": "Cinesioterapia II",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36380-04",
+  "discipline": "Fisioterapia Músculo - Esquelética II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36350-04",
+  "discipline": "Fisioterapia Neurofuncional II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36381-03",
+  "discipline": "Fisioterapia Pélvica",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36345-04",
+  "discipline": "Função  Cardioventilatória I",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36346-03",
+  "discipline": "Prat. Assistida em Fisiot. do Mov. Hum. II",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36344-03",
+  "discipline": "Prát. Assist. em Func. Cardioventilatória I",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "6",
+  "code": "36121-02",
+  "discipline": "Trabalho Integrado em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36356-04",
+  "discipline": "Cinesioterapia III",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36357-04",
+  "discipline": "Fisioterapia Aquática",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36358-02",
+  "discipline": "Fisioterapia Desportiva",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36353-04",
+  "discipline": "Função Cardioventilatória II",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36367-02",
+  "discipline": "Pesquisa em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "36352-03",
+  "discipline": "Prát. Assistida em Função Cardiov. II",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "7",
+  "code": "13298-02",
+  "discipline": "Psicologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36383-02",
+  "discipline": "Análise e Interpretação da Literatura Científica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36365-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36384-06",
+  "discipline": "Estágio Supervisionado I (115H)",
+  "hours": "115"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "1255W-01",
+  "discipline": "Exame de Proficiência em Língua Inglesa",
+  "hours": "15"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36355-06",
+  "discipline": "Função Cardioventilatória III",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36354-03",
+  "discipline": "Prática Assistida em Função Cardiov. III",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "8",
+  "code": "36382-02",
+  "discipline": "Seminários Clínicos em Fisioterapia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "9",
+  "code": "36385-26",
+  "discipline": "Estágio Supervisionado II (510h)",
+  "hours": "510"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "9",
+  "code": "36361-02",
+  "discipline": "Trabalho de Conclusão I",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "10",
+  "code": "36372-00",
+  "discipline": "Atividades Complementares (105 Hrs)",
+  "hours": "105"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "10",
+  "code": "36386-26",
+  "discipline": "Estágio Supervisionado III (510h)",
+  "hours": "510"
+}, {
+  "school": "SAUDE",
+  "course": "FISIOTERAPIA",
+  "semester": "10",
+  "code": "36363-02",
+  "discipline": "Trabalho de Conclusão II",
+  "hours": "30"
+}]

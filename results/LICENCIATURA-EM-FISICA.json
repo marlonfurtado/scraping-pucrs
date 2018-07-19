@@ -1,0 +1,316 @@
+[{
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "42240-04",
+  "discipline": "Astronomia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "4115M-04",
+  "discipline": "Cálculo Diferencial e Integral I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "4116F-02",
+  "discipline": "Geometria Analítica",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "42227-02",
+  "discipline": "Seminários de Física",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "42214-04",
+  "discipline": "Tópicos de Física Clássica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "1",
+  "code": "42219-04",
+  "discipline": "Tópicos de Física Contemporânea",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "4115N-04",
+  "discipline": "Cálculo Diferencial e Integral II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "4115P-02",
+  "discipline": "Cálculo Diferencial e Integral III",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "42258-04",
+  "discipline": "Fluídos e Termodinâmica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "4223A-06",
+  "discipline": "Mecânica Clássica I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "4311P-04",
+  "discipline": "Química Geral",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "2",
+  "code": "15091-04",
+  "discipline": "Ética e Filosofia da Ciência",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "4621L-04",
+  "discipline": "Computação e Solução de Problemas I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "4115R-04",
+  "discipline": "Cálculo Diferencial e Integral IV",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "4222R-06",
+  "discipline": "Eletricidade e Magnetismo",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "1445D-04",
+  "discipline": "Organização e Políticas da Educ. Básica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "42228-02",
+  "discipline": "Pesquisa em Física I",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "3",
+  "code": "4222C-04",
+  "discipline": "Óptica e Ondas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "1426J-04",
+  "discipline": "Didática",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "4115T-04",
+  "discipline": "Equac. Diferenc. e Transformadas Integrais",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "4220R-06",
+  "discipline": "Física Moderna",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "4222B-04",
+  "discipline": "Mecânica Clássica II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "42229-02",
+  "discipline": "Pesquisa em Física II",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "1432K-02",
+  "discipline": "Psic. da Educação: Desenvolvimento",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "4",
+  "code": "4115S-02",
+  "discipline": "Álgebra Matricial",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "42259-12",
+  "discipline": "Disciplina Eletiva",
+  "hours": "180"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "4221E-06",
+  "discipline": "Física Quântica",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "4222D-04",
+  "discipline": "Instrumentação e Medidas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "4221A-04",
+  "discipline": "Metod. e Prát. de Ensino de Física (140h)",
+  "hours": "140"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "4222E-02",
+  "discipline": "Pesquisa em Física III",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "1432L-04",
+  "discipline": "Psic. da Educação: Aprendizagem",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "5",
+  "code": "42278-04",
+  "discipline": "Teoria Eletromagnética",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "6",
+  "code": "4222H-04",
+  "discipline": "Física Nuclear e de Partículas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "6",
+  "code": "4222F-04",
+  "discipline": "Física Teórica e Computacional",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "6",
+  "code": "4221B-04",
+  "discipline": "Prática de Ensino de Física I (180h)",
+  "hours": "180"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "6",
+  "code": "4222A-02",
+  "discipline": "Teoria da Relatividade",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "6",
+  "code": "42288-04",
+  "discipline": "Termodinâmica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "422XY-00",
+  "discipline": "Atividades Complementares (200h)",
+  "hours": "200"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "42262-04",
+  "discipline": "Física do Estado Sólido",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "4221D-04",
+  "discipline": "Instrumentação para O Ensino de Física",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "1216C-04",
+  "discipline": "Língua Brasileira de Sinais",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "42292-02",
+  "discipline": "Mecânica Estatística",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "42243-04",
+  "discipline": "Origens e Desenvolvimento da Física",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "LICENCIATURA-EM-FISICA",
+  "semester": "7",
+  "code": "4221C-04",
+  "discipline": "Prática de Ensino de Física II (180h)",
+  "hours": "180"
+}]

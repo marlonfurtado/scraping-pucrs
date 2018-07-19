@@ -1,0 +1,260 @@
+[{
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "1",
+  "code": "15021-04",
+  "discipline": "Antropologia Filosófica I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "1",
+  "code": "1503A-04",
+  "discipline": "História da Filosofia Antiga",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "1",
+  "code": "15050-04",
+  "discipline": "Introdução à Filosofia",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "1",
+  "code": "15015-04",
+  "discipline": "Lógica I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "1",
+  "code": "15095-04",
+  "discipline": "Metodologia Filosófica",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "2",
+  "code": "15022-04",
+  "discipline": "Antropologia Filosófica II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "2",
+  "code": "1503B-04",
+  "discipline": "História da Filosofia Medieval",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "2",
+  "code": "15016-04",
+  "discipline": "Lógica II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "2",
+  "code": "1503I-04",
+  "discipline": "Metafísica I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "2",
+  "code": "15017-04",
+  "discipline": "Teoria do Conhecimento I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "3",
+  "code": "1503C-04",
+  "discipline": "História da Filosofia Moderna I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "3",
+  "code": "1503Z-04",
+  "discipline": "Metafísica II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "3",
+  "code": "1503D-04",
+  "discipline": "Sem. de Obras Filosof. (Antiga/ Mediev.)",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "3",
+  "code": "15018-04",
+  "discipline": "Teoria do Conhecimento II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "4",
+  "code": "1500D-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "4",
+  "code": "1500V-04",
+  "discipline": "Filosofia da Ciência",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "4",
+  "code": "1503E-04",
+  "discipline": "História da Filosofia Moderna II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "4",
+  "code": "1503H-04",
+  "discipline": "Seminário Temático de Epistemologia",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "4",
+  "code": "1503F-04",
+  "discipline": "Ética Geral",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "5",
+  "code": "1500U-04",
+  "discipline": "Filosofia da Religião",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "5",
+  "code": "1503J-04",
+  "discipline": "História da Filosofia Contemporânea I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "5",
+  "code": "1503M-04",
+  "discipline": "Seminário de Obras Filosóficas (Moderna)",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "5",
+  "code": "1503K-04",
+  "discipline": "Ética Aplicada",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "6",
+  "code": "1500Y-04",
+  "discipline": "Estética",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "6",
+  "code": "1503P-04",
+  "discipline": "Filosofia Social e Política",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "6",
+  "code": "1503N-04",
+  "discipline": "História da Filosofia Contempor. II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "6",
+  "code": "1503S-04",
+  "discipline": "Seminário Temático de Metafísica",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "7",
+  "code": "1503U-04",
+  "discipline": "Ciência e Sociedade",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "7",
+  "code": "1503T-04",
+  "discipline": "Monografia (Projeto)",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "7",
+  "code": "1503V-04",
+  "discipline": "Seminário de Obras Filos. (Contemporânea)",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "7",
+  "code": "1502P-04",
+  "discipline": "Ética Ambiental",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "8",
+  "code": "1500X-00",
+  "discipline": "Atividades Complementares (120 Hrs)",
+  "hours": "120"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "8",
+  "code": "15046-04",
+  "discipline": "Filosofia da Linguagem",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "8",
+  "code": "1503X-04",
+  "discipline": "Hermenêutica",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "8",
+  "code": "1503W-04",
+  "discipline": "Monografia (Redacao)",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "FILOSOFIA",
+  "semester": "8",
+  "code": "1503Y-04",
+  "discipline": "Seminário Temático de Ética",
+  "hours": "60"
+}]

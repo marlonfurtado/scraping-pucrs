@@ -1,0 +1,372 @@
+[{
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "254CG-02",
+  "discipline": "Criatividade",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "4115M-04",
+  "discipline": "Cálculo Diferencial e Integral I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "1531U-04",
+  "discipline": "Estudos Rurais",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "43297-04",
+  "discipline": "Processos Tradicionais na Indústria de Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "43298-02",
+  "discipline": "Projetos de C&T em Alimentos I (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "1",
+  "code": "43296-06",
+  "discipline": "Química Aplicada A Alimentos",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4120V-02",
+  "discipline": "Bioestatística A",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "43299-04",
+  "discipline": "Ciência dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4115N-04",
+  "discipline": "Cálculo Diferencial e Integral II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4311X-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4329A-06",
+  "discipline": "Estrutura e Funcionalidades dos Alimentos",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4210K-04",
+  "discipline": "Física Aplicada A Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "2",
+  "code": "4329B-02",
+  "discipline": "Projetos de C&T em Alimentos II (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "4322K-06",
+  "discipline": "Análise de Alimentos I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "31530-04",
+  "discipline": "Fundamentos de Bioquímica e Fisiologia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "4322J-04",
+  "discipline": "Gastronomia Molecular",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "36456-04",
+  "discipline": "Nutrição e Metabolismo",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "4321J-02",
+  "discipline": "Projetos de C&T em Alimentos III (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "42199-04",
+  "discipline": "Termodinâmica Aplicada A Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "3",
+  "code": "4115S-02",
+  "discipline": "Álgebra Matricial",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4321L-02",
+  "discipline": "Análise Sensorial",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4321M-04",
+  "discipline": "Análise de Alimentos II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4321K-02",
+  "discipline": "Design de Experimentos",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "254CN-02",
+  "discipline": "Formação do Empreendedor",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4471F-04",
+  "discipline": "Logística dos Processos Produtivos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "31732-04",
+  "discipline": "Microbiologia Geral e Parasitologia Aplicada",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4321N-04",
+  "discipline": "Processos e Operação na Ind. de Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "4",
+  "code": "4321P-02",
+  "discipline": "Projetos de C&T em Alimentos IV (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "4322L-04",
+  "discipline": "Fenômenos de Superfície e Interfaces",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "254AK-02",
+  "discipline": "Gestão da Inovação",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "31733-04",
+  "discipline": "Microbiologia dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "4321Q-02",
+  "discipline": "Projetos em Empreendedorismo e Inovação em Alimentos I (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "4321R-04",
+  "discipline": "Tecnologia e Inovação na Ind. de Alimentos de Origem Animal I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "5",
+  "code": "4321S-04",
+  "discipline": "Tecnologia e Inovação na Indústria de Alimentos de Origem Vegetal I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "15099-04",
+  "discipline": "Filosofia e Bioética",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4322A-02",
+  "discipline": "Proj. de Empr.e Inov. em Alim.II (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "254CM-02",
+  "discipline": "Propriedade Intelectual",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4322B-04",
+  "discipline": "Qualidade e Segurança dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4321V-02",
+  "discipline": "Reologia dos Alimentos",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4321T-04",
+  "discipline": "Tecnologia dos Fermentados",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4321Z-04",
+  "discipline": "Tecnologia e Inovação na Industria de Alimentos de Origem Animal II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "6",
+  "code": "4321X-04",
+  "discipline": "Tecnologia e Inovação na Industria de Alimentos de Origem Vegetal II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "4322F-04",
+  "discipline": "Biotecnologia dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "4322M-04",
+  "discipline": "Design de Processos Sustentáveis",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "44898-02",
+  "discipline": "Epidemiologia e Toxicologia dos Alimentos",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "4322E-04",
+  "discipline": "Estágio Supevisionado (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "4322D-02",
+  "discipline": "Projetos em Empreendedorismo e Inovação em Alimentos III (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "7",
+  "code": "4322C-04",
+  "discipline": "Proteção dos Alimentos",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "8",
+  "code": "4314E-00",
+  "discipline": "Atividades Complementares (105 Horas)",
+  "hours": "105"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "8",
+  "code": "2515F-04",
+  "discipline": "Economia e Finanças",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "8",
+  "code": "4322H-02",
+  "discipline": "Projetos em Empreendedorismo e Inovação em Alimentos IV (90h)",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "CIENCIA-E-INOVACAO-EM-ALIMENTOS",
+  "semester": "8",
+  "code": "4322G-02",
+  "discipline": "Seminário Integrador de Inovação em Alimentos (60h)",
+  "hours": "60"
+}]

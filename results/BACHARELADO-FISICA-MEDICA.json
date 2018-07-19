@@ -1,0 +1,337 @@
+[{
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "42240-04",
+  "discipline": "Astronomia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "4115M-04",
+  "discipline": "Cálculo Diferencial e Integral I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "4116F-02",
+  "discipline": "Geometria Analítica",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "42227-02",
+  "discipline": "Seminários de Física",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "42214-04",
+  "discipline": "Tópicos de Física Clássica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "1",
+  "code": "42219-04",
+  "discipline": "Tópicos de Física Contemporânea",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "4115N-04",
+  "discipline": "Cálculo Diferencial e Integral II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "4115P-02",
+  "discipline": "Cálculo Diferencial e Integral III",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "42258-04",
+  "discipline": "Fluídos e Termodinâmica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "4223A-06",
+  "discipline": "Mecânica Clássica I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "4311P-04",
+  "discipline": "Química Geral",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "2",
+  "code": "15091-04",
+  "discipline": "Ética e Filosofia da Ciência",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "3121N-02",
+  "discipline": "Biofísica",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "4621L-04",
+  "discipline": "Computação e Solução de Problemas I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "4115R-04",
+  "discipline": "Cálculo Diferencial e Integral IV",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "4222R-06",
+  "discipline": "Eletricidade e Magnetismo",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "42228-02",
+  "discipline": "Pesquisa em Física I",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "3",
+  "code": "4222C-04",
+  "discipline": "Óptica e Ondas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "4115T-04",
+  "discipline": "Equac. Diferenc. e Transformadas Integrais",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "4220R-06",
+  "discipline": "Física Moderna",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "4222B-04",
+  "discipline": "Mecânica Clássica II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "31159-04",
+  "discipline": "Morfofisiologia Humana",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "42229-02",
+  "discipline": "Pesquisa em Física II",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "4",
+  "code": "4115S-02",
+  "discipline": "Álgebra Matricial",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "4120V-02",
+  "discipline": "Bioestatística A",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "4221E-06",
+  "discipline": "Física Quântica",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "4222D-04",
+  "discipline": "Instrumentação e Medidas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "4222E-02",
+  "discipline": "Pesquisa em Física III",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "5",
+  "code": "42278-04",
+  "discipline": "Teoria Eletromagnética",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "42259-12",
+  "discipline": "Disciplina Eletiva",
+  "hours": "180"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "4222H-04",
+  "discipline": "Física Nuclear e de Partículas",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "4222F-04",
+  "discipline": "Física Teórica e Computacional",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "4222J-04",
+  "discipline": "Física das Radiações Ionizantes",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "4222A-02",
+  "discipline": "Teoria da Relatividade",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "6",
+  "code": "42288-04",
+  "discipline": "Termodinâmica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "4222K-04",
+  "discipline": "Física da Radiologia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "42262-04",
+  "discipline": "Física do Estado Sólido",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "42292-02",
+  "discipline": "Mecânica Estatística",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "42243-04",
+  "discipline": "Origens e Desenvolvimento da Física",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "4222L-02",
+  "discipline": "Prática Profissional Fm I (120h)",
+  "hours": "120"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "7",
+  "code": "42296-04",
+  "discipline": "Radiações Não Ionizantes e Ultra - Som",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "422XX-00",
+  "discipline": "Atividades Complementares (120h)",
+  "hours": "120"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "4222N-04",
+  "discipline": "Física da Medicina Nuclear",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "42295-04",
+  "discipline": "Física da Radioterapia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "4221P-02",
+  "discipline": "Processamento Digital de Imagens",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "42298-04",
+  "discipline": "Proteção Radiológica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "BACHARELADO-FISICA-MEDICA",
+  "semester": "8",
+  "code": "4222M-02",
+  "discipline": "Prática Profissional Fm II (120h)",
+  "hours": "120"
+}]

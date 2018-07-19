@@ -1,0 +1,505 @@
+[{
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "1",
+  "code": "4117G-04",
+  "discipline": "Cálculo I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "1",
+  "code": "48319-04",
+  "discipline": "Desenho Técnico",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "1",
+  "code": "445AC-02",
+  "discipline": "Introdução a Engenharia Elétrica/ Controle",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "1",
+  "code": "4210N-06",
+  "discipline": "Mecânica Newtoniana",
+  "hours": "90"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "1",
+  "code": "4311P-04",
+  "discipline": "Química Geral",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "4459R-04",
+  "discipline": "Circuitos Logicos I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "4117B-04",
+  "discipline": "Cálculo II",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "44591-04",
+  "discipline": "Integração Hardware/ Software I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "4459A-02",
+  "discipline": "Laboratorio de Circuitos Logicos I",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "4210P-06",
+  "discipline": "Termodinâmica e Ondas",
+  "hours": "90"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "2",
+  "code": "4117C-04",
+  "discipline": "Álgebra Linear e Geometria Analítica",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "4459W-04",
+  "discipline": "Circuitos Logicos II",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "4117D-04",
+  "discipline": "Cálculo III",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "4210Q-06",
+  "discipline": "Eletromagnetismo e Física Moderna",
+  "hours": "90"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "445AA-04",
+  "discipline": "Integração Hardware/ Software II",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "4459E-02",
+  "discipline": "Laboratorio de Circuitos Logicos II",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "3",
+  "code": "4120B-04",
+  "discipline": "Probabilidade e Estatística",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "4459S-04",
+  "discipline": "Análise de Circuitos I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "4117E-04",
+  "discipline": "Cálculo IV",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "445AB-04",
+  "discipline": "Integração Hardware/Software III",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "4459C-02",
+  "discipline": "Laboratorio de Circuitos I",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "4117F-04",
+  "discipline": "Matemática Aplicada",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "445AG-02",
+  "discipline": "Materiais Elétricos",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "4",
+  "code": "4423H-02",
+  "discipline": "Mecanica dos Solidos",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4459U-04",
+  "discipline": "Análise de Circuitos II",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4458J-04",
+  "discipline": "Circuitos Eletromagneticos",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4481Y-02",
+  "discipline": "Engenharia Ambiental I",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "44897-02",
+  "discipline": "Fenomenos de Transportes",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4459V-04",
+  "discipline": "Introducao A Dispositivos Eletronicos",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4459D-02",
+  "discipline": "Laboratorio de Circuitos II",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "4459F-02",
+  "discipline": "Laboratorio de Dispositivos Eletronicos",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "5",
+  "code": "44630-04",
+  "discipline": "Sinais e Sistemas",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "44632-04",
+  "discipline": "Análise de Sistemas de Controle",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "445HJ-04",
+  "discipline": "Conversão de Energia I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "44653-02",
+  "discipline": "Laboratório de Controle",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "4459G-02",
+  "discipline": "Laboratório de Processadores I",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "4459Y-04",
+  "discipline": "Processadores I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "4458K-04",
+  "discipline": "Processamento Digital de Sinais",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "6",
+  "code": "445AH-04",
+  "discipline": "Sistemas de Comunicação",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445AM-04",
+  "discipline": "Conversão de Energia II",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445AN-08",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "120"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445AK-04",
+  "discipline": "Eletrônica Analógica",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445AF-04",
+  "discipline": "Instrumentação e Aquisição de Sinais",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "4457R-02",
+  "discipline": "Laboratorio de Dsp",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445AL-02",
+  "discipline": "Laboratório de Eletrônica Analógica",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "44633-04",
+  "discipline": "Projeto de Sistemas de Controle",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "7",
+  "code": "445CC-04",
+  "discipline": "Projetos Elétricos Residenciais e Comerciais",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "4458P-04",
+  "discipline": "Eletronica Aplicada",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "4457N-02",
+  "discipline": "Estágio Supervisionado - EE (190 Hrs)",
+  "hours": "190"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "4459M-02",
+  "discipline": "Laboratorio de Eletronica Aplicada",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "4458M-04",
+  "discipline": "Ondas e Linhas",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "445AV-04",
+  "discipline": "Projetos Elétricos Industriais",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "4452X-04",
+  "discipline": "Sistemas Elétricos de Energia",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "44590-04",
+  "discipline": "Sistemas Embarcados I",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "8",
+  "code": "44636-04",
+  "discipline": "Sistemas de Controle Digital",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BL-04",
+  "discipline": "Antenas e Propagação",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BN-04",
+  "discipline": "Eletrônica de Potência",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BK-04",
+  "discipline": "Geração e Proteção de Sistemas de Energia",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BP-02",
+  "discipline": "Laboratório de Eletrônica de Potência",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BM-02",
+  "discipline": "Projeto de Graduação I - Ee",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BJ-02",
+  "discipline": "Projetos para Tecnologias Móveis",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "445BH-02",
+  "discipline": "Sistemas Embarcados II",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "9",
+  "code": "1501A-04",
+  "discipline": "Ética e Cidadania",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "44028-00",
+  "discipline": "Atividades Complementares (120 Horas)",
+  "hours": "120"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "44654-04",
+  "discipline": "Automação Industrial Clássica",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "445BV-04",
+  "discipline": "Distribuição e Transmissão de Energia Elétrica",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "4471X-02",
+  "discipline": "Engenharia Econômica",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "4471Y-02",
+  "discipline": "Engenharia e Segurança do Trabalho",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "445BY-04",
+  "discipline": "Microeletrônica & Projetos de Sistemas Integrados",
+  "hours": "60"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "445CA-02",
+  "discipline": "Projeto de Graduação II - Ee",
+  "hours": "30"
+}, {
+  "school": "POLITECNICA",
+  "course": "ENGENHARIA-ELETRICA-ELETRONICA",
+  "semester": "10",
+  "code": "4471V-02",
+  "discipline": "Sistemas de Planejamento e Custos para Engenharia",
+  "hours": "30"
+}]

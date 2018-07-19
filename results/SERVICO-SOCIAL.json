@@ -1,0 +1,358 @@
+[{
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "1",
+  "code": "2211D-04",
+  "discipline": "Construção Social do Sujeito",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "1",
+  "code": "22293-04",
+  "discipline": "Formação Sócio-Histórica e Serviço Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "1",
+  "code": "22377-04",
+  "discipline": "Laboratório de Formação Profissional",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "1",
+  "code": "22190-04",
+  "discipline": "Sociedade Capitalista e Questão Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "1",
+  "code": "1501A-04",
+  "discipline": "Ética e Cidadania",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "22294-04",
+  "discipline": "Configurações do Trabalho e Serviço Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "2221F-02",
+  "discipline": "Const. da Identidade do Assistente Social",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "22192-04",
+  "discipline": "Estado, Política Social e Sistema de Proteção Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "22374-02",
+  "discipline": "Fundamentos do Serviço Social I",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "22193-04",
+  "discipline": "Introdução Aos Direitos Humanos",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "22191-02",
+  "discipline": "Laboratório de Produção Documental em Serviço Social I",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "2",
+  "code": "2211C-02",
+  "discipline": "Serviço Social e Projeto Ético - Político",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22375-04",
+  "discipline": "Fundamentos do Serviço Social II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22296-04",
+  "discipline": "Gestão do Trabalho Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22378-04",
+  "discipline": "Laboratório de Processos Interventivs do Serviço Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22295-02",
+  "discipline": "Laboratório de Produção Documental do Serviço Social II",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22196-02",
+  "discipline": "Política e Sistema Único de Saúde",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22194-02",
+  "discipline": "Relações Étnico Raciais, Gênero e Sexualidade na Sociedade de Classes",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "3",
+  "code": "22195-02",
+  "discipline": "Ética Profissional do Serviço Social: Fundamentos",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "22379-04",
+  "discipline": "Estágio Curricular em S. S. I (190 H)",
+  "hours": "190"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "22297-04",
+  "discipline": "Fundamentos do Serviço Social III",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "2221J-02",
+  "discipline": "Laboratório de Intervenção Social e Análise dos Processos de Trabalho",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "22198-02",
+  "discipline": "Políticas Sociais para O Idoso",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "2221H-04",
+  "discipline": "Processos Interventivos com Famílias",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "36121-02",
+  "discipline": "Trabalho Integrado em Saúde",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "4",
+  "code": "22197-02",
+  "discipline": "Ética Profissional do Serviço Social: Legislação Profissional",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "22298-02",
+  "discipline": "Elaboração de Projeto de Intervenção Profissional",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "22381-04",
+  "discipline": "Estágio Curricular em S. S. II (190 H)",
+  "hours": "190"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "2211E-04",
+  "discipline": "Política e Sistema Único de Assistência Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "22119-04",
+  "discipline": "Políticas Sociais para Crianças, Adolescentes e Jovens",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "22380-04",
+  "discipline": "Processos Interventivos com Sujeitos Coletivos",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "5",
+  "code": "22199-02",
+  "discipline": "Ética Profissional em Serviço Social: Exercício Profissional",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "22178-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "22299-02",
+  "discipline": "Diversidade Humana e Acessibilidade Universal",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "22383-04",
+  "discipline": "Estágio Curricular em S. S. III (190 H)",
+  "hours": "190"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "2221L-04",
+  "discipline": "Gestao Social no Terceiro Setor Sp",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "22382-04",
+  "discipline": "Lab. de Práticas Coletivas e Movim. Soc.",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "2211A-02",
+  "discipline": "Política Social de Habitação",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "6",
+  "code": "2221K-02",
+  "discipline": "Política de Previdência Social",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "7",
+  "code": "2211B-02",
+  "discipline": "Direitos Humanos no Debate Contemporâneo",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "7",
+  "code": "22376-04",
+  "discipline": "Projeto de Qualificação para O Tcc Sp",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "7",
+  "code": "2221G-04",
+  "discipline": "Servico Social e Anal. da Conjuntura",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "7",
+  "code": "2221A-04",
+  "discipline": "Teoria e Elaboração de Projetos de Pesquisa",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "22384-02",
+  "discipline": "Assessoria, Consultoria e Supervisão em Serviço Social",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "22360-00",
+  "discipline": "Atividades Complementares (120 Horas)",
+  "hours": "120"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "2221D-02",
+  "discipline": "Política de Inserção Produtiva e Transferência de Renda",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "2221B-04",
+  "discipline": "Processos de Análise em Pesquisa Social",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "2221E-04",
+  "discipline": "Responsabilidade, Inovação e Empreendedorismo Social Sp",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "2221C-04",
+  "discipline": "Serviço Social e Mundo do Trabalho",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "SERVICO-SOCIAL",
+  "semester": "8",
+  "code": "22373-02",
+  "discipline": "Trabalho de Conclusão de Curso",
+  "hours": "30"
+}]

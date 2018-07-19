@@ -1,0 +1,260 @@
+[{
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "1",
+  "code": "4115M-04",
+  "discipline": "Cálculo Diferencial e Integral I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "1",
+  "code": "42193-06",
+  "discipline": "Física Geral e Experimental I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "1",
+  "code": "1432K-02",
+  "discipline": "Psic. da Educação: Desenvolvimento",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "1",
+  "code": "4310T-06",
+  "discipline": "Química Geral e Inorgânica I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "1",
+  "code": "4313L-06",
+  "discipline": "Química Orgânica I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "4115N-04",
+  "discipline": "Cálculo Diferencial e Integral II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "1445D-04",
+  "discipline": "Organização e Políticas da Educ. Básica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "1432L-04",
+  "discipline": "Psic. da Educação: Aprendizagem",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "4321E-06",
+  "discipline": "QuÍmica AnalÍtica I",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "4313M-04",
+  "discipline": "Química Geral e Inorgânica II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "2",
+  "code": "4313N-06",
+  "discipline": "Química Orgânica II",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "4115P-02",
+  "discipline": "Cálculo Diferencial e Integral III",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "1426J-04",
+  "discipline": "Didática",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "42196-06",
+  "discipline": "Física Geral e Experimental III",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "4313S-04",
+  "discipline": "Físico-Química I",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "4321F-06",
+  "discipline": "Química Analítica II",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "43163-04",
+  "discipline": "Química Orgânica III",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "3",
+  "code": "4313T-02",
+  "discipline": "Tutor. em Prát. Doc. de Química I (60hs)",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "4311X-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "43172-04",
+  "discipline": "Físico-Química II",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "1216C-04",
+  "discipline": "Língua Brasileira de Sinais",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "4313U-06",
+  "discipline": "Química Inorgânica I e Minerologia",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "4",
+  "code": "4313V-02",
+  "discipline": "Tutoram. em Prát. Docente de Quím. II (60hs)",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "5",
+  "code": "43173-06",
+  "discipline": "Físico - Química III",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "5",
+  "code": "4313W-02",
+  "discipline": "História da Química",
+  "hours": "30"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "5",
+  "code": "4312L-04",
+  "discipline": "Metodologia do Ensino de Química",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "5",
+  "code": "4312R-06",
+  "discipline": "Química Inorgânica II e Mineralogia",
+  "hours": "90"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "5",
+  "code": "4313Y-02",
+  "discipline": "Tutor. em Prát. Docente de Quím. III (60hs)",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "6",
+  "code": "4312A-04",
+  "discipline": "Projetos de Ensino de Química",
+  "hours": "80"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "6",
+  "code": "4314B-04",
+  "discipline": "Prática Docente de Química I (120 Hs)",
+  "hours": "120"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "6",
+  "code": "43280-04",
+  "discipline": "Química Biologica",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "6",
+  "code": "4314A-04",
+  "discipline": "Química Inorgânica III e Mineralogia",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "7",
+  "code": "4314C-04",
+  "discipline": "Prática Docente em Química II (120 Hs)",
+  "hours": "120"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "7",
+  "code": "4313P-04",
+  "discipline": "Química Ambiental",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "7",
+  "code": "15091-04",
+  "discipline": "Ética e Filosofia da Ciência",
+  "hours": "60"
+}, {
+  "school": "CIENCIAS",
+  "course": "QUIMICA",
+  "semester": "8",
+  "code": "4314D-00",
+  "discipline": "Atividades Complementares (200 Horas)",
+  "hours": "200"
+}]

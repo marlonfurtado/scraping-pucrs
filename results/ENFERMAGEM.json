@@ -1,0 +1,309 @@
+[{
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "31151-04",
+  "discipline": "Anatomia Humana Geral",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "3121H-03",
+  "discipline": "BiofÍsica",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "3121M-04",
+  "discipline": "BioquÍmica",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "36189-02",
+  "discipline": "Fundamentos de Enfermagem e Segurança do Paciente I",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "31528-03",
+  "discipline": "Histologia e Embriologia geral",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "31353-03",
+  "discipline": "Microbiologia",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "31354-02",
+  "discipline": "Parasitologia e Micologia",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "1",
+  "code": "36150-02",
+  "discipline": "Primeiros Socorros",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "31152-04",
+  "discipline": "Anatomia de Orgãos e Sistemas",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "31498-03",
+  "discipline": "Biologia Celular e Genética",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "3121P-06",
+  "discipline": "Fisiologia Humana",
+  "hours": "90"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "36190-08",
+  "discipline": "Fundamentos de Enfermagem e Segurança do Paciente II",
+  "hours": "120"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "3611H-02",
+  "discipline": "Redação Científica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "2",
+  "code": "36121-02",
+  "discipline": "Trabalho Integrado em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "3",
+  "code": "36191-10",
+  "discipline": "ENFERMAGEM NA ATENÇÃO PRIMÁRIA À SAÚDE",
+  "hours": "150"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "3",
+  "code": "36194-02",
+  "discipline": "Educação em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "3",
+  "code": "36193-04",
+  "discipline": "Epidemiologia, Vigilância em Saúde e Doenças Transmissíveis",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "3",
+  "code": "36192-04",
+  "discipline": "Fundamentos de Enfermagem e Segurança do Paciente III",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "3",
+  "code": "31355-03",
+  "discipline": "Imunologia",
+  "hours": "45"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "36166-02",
+  "discipline": "Enfermagem e Exames Complementares",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "36195-08",
+  "discipline": "Enfermagem na Saúde do Adulto e Idoso I",
+  "hours": "120"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "3121K-02",
+  "discipline": "Farmacologia Básica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "15099-04",
+  "discipline": "Filosofia e Bioética",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "36431-02",
+  "discipline": "Nutrição Básica e Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "33237-02",
+  "discipline": "Patologia Básica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "4",
+  "code": "1332F-02",
+  "discipline": "Psicologia e Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "5",
+  "code": "36160-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "5",
+  "code": "36196-04",
+  "discipline": "Enfermagem na Saúde Mental",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "5",
+  "code": "36197-14",
+  "discipline": "Enfermagem na Saúde do Adulto e Idoso II",
+  "hours": "210"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "5",
+  "code": "31529-02",
+  "discipline": "Farmacologia Clínica",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "6",
+  "code": "36198-12",
+  "discipline": "Enfermagem Materno - Infantil",
+  "hours": "180"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "6",
+  "code": "36199-10",
+  "discipline": "Enfermagem em Situações de Alta Complexidade",
+  "hours": "150"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "7",
+  "code": "3611B-12",
+  "discipline": "Enfermagem na Saúde da Criança e do Adolescente",
+  "hours": "180"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "7",
+  "code": "3611A-04",
+  "discipline": "Gestão em Saúde",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "7",
+  "code": "3611C-04",
+  "discipline": "Pesquisa em Saúde",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "8",
+  "code": "1255W-01",
+  "discipline": "Exame de Proficiência em Língua Inglesa",
+  "hours": "15"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "8",
+  "code": "3611D-15",
+  "discipline": "Gerenciamento em Enfermagem",
+  "hours": "225"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "8",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "8",
+  "code": "36375-02",
+  "discipline": "Inovação e Desenvolvimento em Saúde",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "8",
+  "code": "36182-02",
+  "discipline": "Trabalho de Conclusão I",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "9",
+  "code": "3611F-17",
+  "discipline": "Estágio Supervisionado I (510 Horas)",
+  "hours": "510"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "9",
+  "code": "36184-02",
+  "discipline": "Trabalho de Conclusão II",
+  "hours": "30"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "10",
+  "code": "36185-00",
+  "discipline": "Atividades Complementares (105 Hrs)",
+  "hours": "105"
+}, {
+  "school": "SAUDE",
+  "course": "ENFERMAGEM",
+  "semester": "10",
+  "code": "3611G-17",
+  "discipline": "Estágio Supervisionado II (510 Horas)",
+  "hours": "510"
+}]

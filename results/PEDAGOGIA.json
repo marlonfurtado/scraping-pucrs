@@ -1,0 +1,344 @@
+[{
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1423I-04",
+  "discipline": "Educação e Literatura Infantojuvenil",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1430D-02",
+  "discipline": "Estudos Antropológicos em Educação",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1430X-04",
+  "discipline": "História da Educação",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1430Y-02",
+  "discipline": "Introdução A Docência e A Pedagogia",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1420U-04",
+  "discipline": "Produção Textual em Educação",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "1433A-04",
+  "discipline": "Psicossociologia da Inf. e Desenv. Humano",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "1",
+  "code": "14375-04",
+  "discipline": "Sociologia da Educação",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1430V-12",
+  "discipline": "Disciplinas Eletivas",
+  "hours": "180"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1433C-02",
+  "discipline": "Educação da Infância de O A 3 Anos (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1423O-02",
+  "discipline": "Educação e Artes Visuais (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1424B-04",
+  "discipline": "Educação e Téc. da Inf. e Com. na Escola",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "14337-02",
+  "discipline": "Epistemologia da Pesquisa em Educação",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1214K-02",
+  "discipline": "Linguística e Letramento",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1424K-04",
+  "discipline": "Princ. e Prop. Met. de Educ. Fis. e Rec. (75h)",
+  "hours": "75"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "2",
+  "code": "1430N-04",
+  "discipline": "Psicologia da Educação: Aprendizagem",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "1433D-02",
+  "discipline": "Educação da Infância de 4 A 5 Anos (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "1430K-04",
+  "discipline": "Filosofia da Educação",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "1433H-04",
+  "discipline": "Neurociências e Aprendizagem",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "1425T-04",
+  "discipline": "Princ. e Prop. Metod. de Alfab. I (75h)",
+  "hours": "75"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "1425K-04",
+  "discipline": "Princ. e Prop. Metod. de Matem. I (70h)",
+  "hours": "70"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "143AB-04",
+  "discipline": "Psicoped. e Contextos de Aprendizagem",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "3",
+  "code": "14347-02",
+  "discipline": "Teorias da Educação",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "143AD-04",
+  "discipline": "Currículo: Teorias e Práticas",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "1433E-02",
+  "discipline": "Educação da Infância de 6 A 10 Anos (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "1433J-02",
+  "discipline": "Educação, Cult. e Relações Étnico-Raciais",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "143AC-04",
+  "discipline": "Gestão do Espaço Educativo",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "1434A-04",
+  "discipline": "Organização e Politicas da Educ. Básica",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "1429P-02",
+  "discipline": "Princ. e Prop. Metod. de Alfab. II",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "1426Y-04",
+  "discipline": "Princ. e Prop. Metod. de Matem. II (70h)",
+  "hours": "70"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "4",
+  "code": "142VM-04",
+  "discipline": "Princípios e Prop. Metod. de Líng. Port.",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "142VD-04",
+  "discipline": "Didática I",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "1445M-02",
+  "discipline": "Educação Socioambiental",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "1424O-04",
+  "discipline": "Educação de Jovens e Adultos",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "1433K-04",
+  "discipline": "Educação em Espaços Não Formais",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "142BV-06",
+  "discipline": "Princ. e Prop. Metod. de Estudos Sociais",
+  "hours": "90"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "5",
+  "code": "14299-06",
+  "discipline": "Princípios e Propostas Metod. de Ciências",
+  "hours": "90"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "142CA-04",
+  "discipline": "Didática II",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "1433L-04",
+  "discipline": "Educação Especial e Processos Inclusivos",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "1425I-02",
+  "discipline": "Educação e Artes Cênicas (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "1424I-02",
+  "discipline": "Educação e Música (45h)",
+  "hours": "45"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "142CB-04",
+  "discipline": "Est. Superv. na Educação Infantil (180h)",
+  "hours": "180"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "6",
+  "code": "1216C-04",
+  "discipline": "Língua Brasileira de Sinais",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "7",
+  "code": "142CF-04",
+  "discipline": "Est. Sup. nos Anos Inic. do Ens. Fund. (360h)",
+  "hours": "360"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "7",
+  "code": "11521-04",
+  "discipline": "Humanismo e Cultura Religiosa",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "7",
+  "code": "142DA-02",
+  "discipline": "Proj. de Trabalho de Conclusão de Curso",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "8",
+  "code": "1432S-00",
+  "discipline": "Atividades Complementares (120 Horas)",
+  "hours": "120"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "8",
+  "code": "1430R-02",
+  "discipline": "Educação e Saúde",
+  "hours": "30"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "8",
+  "code": "142DB-04",
+  "discipline": "Trabalho de Conclusão de Curso",
+  "hours": "60"
+}, {
+  "school": "HUMANIDADES",
+  "course": "PEDAGOGIA",
+  "semester": "8",
+  "code": "1501A-04",
+  "discipline": "Ética e Cidadania",
+  "hours": "60"
+}]
