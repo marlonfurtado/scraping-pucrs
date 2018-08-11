@@ -2,9 +2,9 @@
   "name": "scraping-pucrs",
   "version": "1.0.0",
   "description": "Scraping PUCRS courses",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app/index.js"
   },
   "repository": {
     "type": "git",
