@@ -73,7 +73,6 @@ app.get('/all', (req, res) => {
             console.log(`  LOADING ${school}: ${course}... `)
             const json = JSON.stringify(info)
             fs.writeFile(`./dist/${course}.json`, json, 'utf8', callback)
-            console.log('OPAAAAAA')
           })
         })
       }
