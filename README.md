@@ -2,7 +2,7 @@
 > Scraping PUCRS courses
 
 ## What is  
-A script application to get the course and discipline information from the PUCRS website.  
+A script application to get the course and [discipline information](dist/) from the PUCRS website.  
   
   
 ## Why  
@@ -40,7 +40,12 @@ npm start
 - `localhost:3000/all`  
 
    http://localhost:3000/all  
-   Create 60 json files with infos about all courses in */results* folder   
-   Acces the files [here](results/)
+   Create 60 json files with infos about all courses in */dist* folder   
+   Acces the files [here](dist/)  
 
+## Easy way :octocat:  
+Use git submodules.  
 
+Examples:  
+https://blog.github.com/2016-02-01-working-with-submodules/  
+https://git-scm.com/docs/git-submodule  
