@@ -1,1 +1,642 @@
-[{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"15199-02","discipline":"Antropologia Social","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1314J-02","discipline":"Análise Experimental do Comportamento","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1312A-04","discipline":"Fund. Epistem. e História da Psicologia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1320A-02","discipline":"Fund. e Medidas em Avaliação Psicologica","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1312F-02","discipline":"Produção do Conhecimento em Psicologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"31250-02","discipline":"Psicofisiologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1313C-04","discipline":"Psicologia Geral e Experimental I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1312D-04","discipline":"Psicologia do Desenvolvimento","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"1","code":"1330I-02","discipline":"Ética e Legislação em Psicologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"13020-12","discipline":"Disciplinas Eletivas","hours":"180"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"41279-04","discipline":"Estatística Aplicada à Psicologia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"31495-04","discipline":"Genética Humana Aplicada à Psicologia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"1320X-04","discipline":"Metapsicologia Psicanalítica","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"1321Y-02","discipline":"Psicoendocrinologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"1313D-02","discipline":"Psicologia Geral e Experimental II","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"1330V-04","discipline":"Psicologia Social","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"1320C-02","discipline":"Teorias Humanistas Existenciais","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"2","code":"131AA-04","discipline":"Teorias Sócio - Cognitivas","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1323H-04","discipline":"Avaliação Psicol: Funções Cognitivas","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1314A-02","discipline":"Prática em Psicologia I (60h)","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1310I-04","discipline":"Psicologia da Família","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1331T-04","discipline":"Psicologia dos Grupos I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1330Q-02","discipline":"Psicologia, Cultura e Sociedade","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"13299-04","discipline":"Psiconeurobiologia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1323D-04","discipline":"Psiquismo e Subjetividade em Psicanálise","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"3","code":"1323A-04","discipline":"Teorias e Modelos Comport. e Cognitivos","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1323P-02","discipline":"Avaliação Psic. no Contexto Profissional","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1323N-02","discipline":"Contextos e Técnica Psicanalítica","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1323K-04","discipline":"Fundamentos e Técnicas de Entrevista","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1331V-02","discipline":"Prática em Psicologia II (60h)","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1323J-02","discipline":"Psicofarmacologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"13398-02","discipline":"Psicologia Comunitária","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1330X-04","discipline":"Psicologia dos Grupos II","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1323B-04","discipline":"Psicopatologia Descritiva I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"36121-02","discipline":"Trabalho Integrado em Saúde","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"4","code":"1320D-04","discipline":"Técnicas e Instrumentos de Aval. da Personalidade","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1312G-02","discipline":"Pesquisa em Psicologia","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1323X-02","discipline":"Prática em Psicopatologia (80h)","hours":"80"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1330Y-02","discipline":"Psicologia e Saúde Coletiva","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1323C-04","discipline":"Psicopatologia Descritiva II","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1320Q-04","discipline":"Psicopatologia Psicanalítica","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1310Q-04","discipline":"Psicopedagogia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1323T-04","discipline":"Psicoterapia Comportamental e Cognitiva I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1321Q-04","discipline":"Técnicas Projetivas em Aval. da Personalidade","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"5","code":"1330Z-02","discipline":"Ética e Atuação Profissional","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1321X-04","discipline":"Clínica Psicanalítica Contemporânea","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1332B-04","discipline":"Políticas Sociais e Psicologia","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1324X-04","discipline":"Prática em Avaliação Psicológica (80h)","hours":"80"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1317A-04","discipline":"Psicologia Escolar e Educacional I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1331N-04","discipline":"Psicologia do Trabalho e das Organizações I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1316A-04","discipline":"Psicologia e Instituições","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1323U-02","discipline":"Psicoterapia Comport. e Cognitiva II","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"6","code":"1322Q-04","discipline":"Teorias e Intervenções Sistêmicas I","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"13000-05","discipline":"EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.A-I (150HS)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"13033-05","discipline":"Est. Sup. Esp. em Psic. Clinica A - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"13029-05","discipline":"Est. Sup. Esp. em Psic. Escolar A - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"13037-05","discipline":"Est. Sup. Esp. em Psic. do Trab. A - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"1317B-04","discipline":"Psicologia Escolar e Educacional II","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"1332M-04","discipline":"Psicologia da Saúde","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"7","code":"1331Q-04","discipline":"Psicologia do Trabalho e das Organizações II","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"13001-05","discipline":"EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.A-II(150HS)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"13034-05","discipline":"Est. Sup. Esp. em Psic. Clinica A - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"13030-05","discipline":"Est. Sup. Esp. em Psic. Escolar A - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"13038-05","discipline":"Est. Sup. Esp. em Psic. do Trab. A - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"1331R-04","discipline":"Intervenção Psicossocial","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"1312H-02","discipline":"Tcc I","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"8","code":"1322Y-04","discipline":"Teorias e Intervenções Sistêmicas II","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"13002-05","discipline":"EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.B-I(150HS)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"13035-05","discipline":"Est. Sup. Esp. em Psic. Clinica B - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"13031-05","discipline":"Est. Sup. Esp. em Psic. Escolar B - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"13039-05","discipline":"Est. Sup. Esp. em Psic. do Trab. B - I (150 Hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"15099-04","discipline":"Filosofia e Bioética","hours":"60"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"9","code":"1311Q-02","discipline":"TCC II","hours":"30"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"13096-00","discipline":"Atividades Complementares: 120 Horas","hours":"120"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"13003-05","discipline":"EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.B-I(150HS)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"13036-05","discipline":"Est. Sup. Esp. em Psic. Clinica B - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"13032-05","discipline":"Est. Sup. Esp. em Psic. Escolar B - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"13040-05","discipline":"Est. Sup. Esp. em Psic. do Trab. B - II (150hrs)","hours":"150"},{"school":"SAUDE","course":"PSICOLOGIA","semester":"10","code":"1512V-02","discipline":"Sociologia Aplicada à Psicologia","hours":"30"}]
+[
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "15199-02",
+    "discipline": "Antropologia Social",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1314J-02",
+    "discipline": "Análise Experimental do Comportamento",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1312A-04",
+    "discipline": "Fund. Epistem. e História da Psicologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1320A-02",
+    "discipline": "Fund. e Medidas em Avaliação Psicologica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1312F-02",
+    "discipline": "Produção do Conhecimento em Psicologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "31250-02",
+    "discipline": "Psicofisiologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1313C-04",
+    "discipline": "Psicologia Geral e Experimental I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1312D-04",
+    "discipline": "Psicologia do Desenvolvimento",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "1",
+    "code": "1330I-02",
+    "discipline": "Ética e Legislação em Psicologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "13020-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "41279-04",
+    "discipline": "Estatística Aplicada à Psicologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "31495-04",
+    "discipline": "Genética Humana Aplicada à Psicologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "1320X-04",
+    "discipline": "Metapsicologia Psicanalítica",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "1321Y-02",
+    "discipline": "Psicoendocrinologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "1313D-02",
+    "discipline": "Psicologia Geral e Experimental II",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "1330V-04",
+    "discipline": "Psicologia Social",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "1320C-02",
+    "discipline": "Teorias Humanistas Existenciais",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "2",
+    "code": "131AA-04",
+    "discipline": "Teorias Sócio - Cognitivas",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1323H-04",
+    "discipline": "Avaliação Psicol: Funções Cognitivas",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1314A-02",
+    "discipline": "Prática em Psicologia I (60h)",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1310I-04",
+    "discipline": "Psicologia da Família",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1331T-04",
+    "discipline": "Psicologia dos Grupos I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1330Q-02",
+    "discipline": "Psicologia, Cultura e Sociedade",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "13299-04",
+    "discipline": "Psiconeurobiologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1323D-04",
+    "discipline": "Psiquismo e Subjetividade em Psicanálise",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "3",
+    "code": "1323A-04",
+    "discipline": "Teorias e Modelos Comport. e Cognitivos",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1323P-02",
+    "discipline": "Avaliação Psic. no Contexto Profissional",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1323N-02",
+    "discipline": "Contextos e Técnica Psicanalítica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1323K-04",
+    "discipline": "Fundamentos e Técnicas de Entrevista",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1331V-02",
+    "discipline": "Prática em Psicologia II (60h)",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1323J-02",
+    "discipline": "Psicofarmacologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "13398-02",
+    "discipline": "Psicologia Comunitária",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1330X-04",
+    "discipline": "Psicologia dos Grupos II",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1323B-04",
+    "discipline": "Psicopatologia Descritiva I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "36121-02",
+    "discipline": "Trabalho Integrado em Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "4",
+    "code": "1320D-04",
+    "discipline": "Técnicas e Instrumentos de Aval. da Personalidade",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1312G-02",
+    "discipline": "Pesquisa em Psicologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1323X-02",
+    "discipline": "Prática em Psicopatologia (80h)",
+    "hours": "80"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1330Y-02",
+    "discipline": "Psicologia e Saúde Coletiva",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1323C-04",
+    "discipline": "Psicopatologia Descritiva II",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1320Q-04",
+    "discipline": "Psicopatologia Psicanalítica",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1310Q-04",
+    "discipline": "Psicopedagogia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1323T-04",
+    "discipline": "Psicoterapia Comportamental e Cognitiva I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1321Q-04",
+    "discipline": "Técnicas Projetivas em Aval. da Personalidade",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "5",
+    "code": "1330Z-02",
+    "discipline": "Ética e Atuação Profissional",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1321X-04",
+    "discipline": "Clínica Psicanalítica Contemporânea",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1332B-04",
+    "discipline": "Políticas Sociais e Psicologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1324X-04",
+    "discipline": "Prática em Avaliação Psicológica (80h)",
+    "hours": "80"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1317A-04",
+    "discipline": "Psicologia Escolar e Educacional I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1331N-04",
+    "discipline": "Psicologia do Trabalho e das Organizações I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1316A-04",
+    "discipline": "Psicologia e Instituições",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1323U-02",
+    "discipline": "Psicoterapia Comport. e Cognitiva II",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "6",
+    "code": "1322Q-04",
+    "discipline": "Teorias e Intervenções Sistêmicas I",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "13000-05",
+    "discipline": "EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.A-I (150HS)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "13033-05",
+    "discipline": "Est. Sup. Esp. em Psic. Clinica A - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "13029-05",
+    "discipline": "Est. Sup. Esp. em Psic. Escolar A - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "13037-05",
+    "discipline": "Est. Sup. Esp. em Psic. do Trab. A - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "1317B-04",
+    "discipline": "Psicologia Escolar e Educacional II",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "1332M-04",
+    "discipline": "Psicologia da Saúde",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "7",
+    "code": "1331Q-04",
+    "discipline": "Psicologia do Trabalho e das Organizações II",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "13001-05",
+    "discipline": "EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.A-II(150HS)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "13034-05",
+    "discipline": "Est. Sup. Esp. em Psic. Clinica A - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "13030-05",
+    "discipline": "Est. Sup. Esp. em Psic. Escolar A - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "13038-05",
+    "discipline": "Est. Sup. Esp. em Psic. do Trab. A - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "1331R-04",
+    "discipline": "Intervenção Psicossocial",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "1312H-02",
+    "discipline": "Tcc I",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "8",
+    "code": "1322Y-04",
+    "discipline": "Teorias e Intervenções Sistêmicas II",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "13002-05",
+    "discipline": "EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.B-I(150HS)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "13035-05",
+    "discipline": "Est. Sup. Esp. em Psic. Clinica B - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "13031-05",
+    "discipline": "Est. Sup. Esp. em Psic. Escolar B - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "13039-05",
+    "discipline": "Est. Sup. Esp. em Psic. do Trab. B - I (150 Hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "15099-04",
+    "discipline": "Filosofia e Bioética",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "9",
+    "code": "1311Q-02",
+    "discipline": "TCC II",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "13096-00",
+    "discipline": "Atividades Complementares: 120 Horas",
+    "hours": "120"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "13003-05",
+    "discipline": "EST.SUPERV.ESPEC.EM PSIC.AMPL/COMUN.B-I(150HS)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "13036-05",
+    "discipline": "Est. Sup. Esp. em Psic. Clinica B - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "13032-05",
+    "discipline": "Est. Sup. Esp. em Psic. Escolar B - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "13040-05",
+    "discipline": "Est. Sup. Esp. em Psic. do Trab. B - II (150hrs)",
+    "hours": "150"
+  },
+  {
+    "school": "SAUDE",
+    "course": "PSICOLOGIA",
+    "semester": "10",
+    "code": "1512V-02",
+    "discipline": "Sociologia Aplicada à Psicologia",
+    "hours": "30"
+  }
+]

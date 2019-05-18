@@ -1,1 +1,370 @@
-[{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"31154-04","discipline":"Anatomia Humana","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"36433-02","discipline":"Ação Integrada para Nutrição","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"3121N-02","discipline":"Biofísica","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"31156-03","discipline":"Histologia e Embriologia Geral","hours":"45"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"36432-04","discipline":"Nutrição e Saúde","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"31356-02","discipline":"Parasitologia","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"1","code":"4313E-02","discipline":"Química","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"1514J-04","discipline":"Antropologia da Alimentação","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"3144A-04","discipline":"Biologia Celular e Genética","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"3121S-04","discipline":"Bioquímica Estrutural","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"1255W-01","discipline":"Exame de Proficiência em Língua Inglesa","hours":"15"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"36434-04","discipline":"Nutrição, Saúde e Comunidade","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"2","code":"36121-02","discipline":"Trabalho Integrado em Saúde","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"3","code":"3121T-04","discipline":"Bioquímica Metabólica","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"3","code":"3121P-06","discipline":"Fisiologia Humana","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"3","code":"31359-04","discipline":"Microbiologia Geral e de Alimentos","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"3","code":"36435-06","discipline":"Nutriçâo e Longevidade","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"3","code":"36436-06","discipline":"Técnica Dietética e Higiene dos Aliment.","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"36455-00","discipline":"Atividades Complementares (105 Hrs)","hours":"105"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"43292-04","discipline":"Bromatologia","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"36440-12","discipline":"Disciplinas Eletivas","hours":"180"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"36438-06","discipline":"Nutrição Materno Infantil","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"36439-02","discipline":"Pesquisa em Saúde","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"13286-04","discipline":"Psicologia","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"4","code":"36437-06","discipline":"Técnica Dietética nos Ciclos da Vida","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"36442-06","discipline":"Alimentação Coletiva e Saúde","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"36159-02","discipline":"Educação para Saúde","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"3121U-02","discipline":"Farmacologia","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"36441-06","discipline":"Nutrição Clínica e Social I","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"36443-02","discipline":"Nutrição para o Desporto e Saúde","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"33238-02","discipline":"Patologia","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"5","code":"43294-04","discipline":"Tecnologia dos Alimentos","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"6","code":"36447-08","discipline":"Estágio Superv. em Aliment. Colet. (240hrs)","hours":"240"},{"school":"SAUDE","course":"NUTRICAO","semester":"6","code":"36525-04","discipline":"Gastronomia","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"6","code":"36445-04","discipline":"Gerenciamento em Nutrição","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"6","code":"31329-03","discipline":"Imunologia","hours":"45"},{"school":"SAUDE","course":"NUTRICAO","semester":"6","code":"36444-06","discipline":"Nutrição Clínica e Social II","hours":"90"},{"school":"SAUDE","course":"NUTRICAO","semester":"7","code":"36450-08","discipline":"Estág. Superv. em Nutr. na Saúde Col. (240h)","hours":"240"},{"school":"SAUDE","course":"NUTRICAO","semester":"7","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"7","code":"36449-02","discipline":"Métodos de Investigação em Nutrição","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"7","code":"36448-04","discipline":"Nutrição Clínica e Social III","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"7","code":"36451-02","discipline":"Trabalho de Conclusão I","hours":"30"},{"school":"SAUDE","course":"NUTRICAO","semester":"8","code":"36452-08","discipline":"Estág. Superv. em Nutric. Clínica (240hrs)","hours":"240"},{"school":"SAUDE","course":"NUTRICAO","semester":"8","code":"15099-04","discipline":"Filosofia e Bioética","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"8","code":"36454-04","discipline":"Inovacao e Desenvolvimento em Nutricao","hours":"60"},{"school":"SAUDE","course":"NUTRICAO","semester":"8","code":"36453-02","discipline":"Trabalho de Conclusão II","hours":"30"}]
+[
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "31154-04",
+    "discipline": "Anatomia Humana",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "36433-02",
+    "discipline": "Ação Integrada para Nutrição",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "3121N-02",
+    "discipline": "Biofísica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "31156-03",
+    "discipline": "Histologia e Embriologia Geral",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "36432-04",
+    "discipline": "Nutrição e Saúde",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "31356-02",
+    "discipline": "Parasitologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "1",
+    "code": "4313E-02",
+    "discipline": "Química",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "1514J-04",
+    "discipline": "Antropologia da Alimentação",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "3144A-04",
+    "discipline": "Biologia Celular e Genética",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "3121S-04",
+    "discipline": "Bioquímica Estrutural",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "1255W-01",
+    "discipline": "Exame de Proficiência em Língua Inglesa",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "36434-04",
+    "discipline": "Nutrição, Saúde e Comunidade",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "2",
+    "code": "36121-02",
+    "discipline": "Trabalho Integrado em Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "3",
+    "code": "3121T-04",
+    "discipline": "Bioquímica Metabólica",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "3",
+    "code": "3121P-06",
+    "discipline": "Fisiologia Humana",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "3",
+    "code": "31359-04",
+    "discipline": "Microbiologia Geral e de Alimentos",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "3",
+    "code": "36435-06",
+    "discipline": "Nutriçâo e Longevidade",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "3",
+    "code": "36436-06",
+    "discipline": "Técnica Dietética e Higiene dos Aliment.",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "36455-00",
+    "discipline": "Atividades Complementares (105 Hrs)",
+    "hours": "105"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "43292-04",
+    "discipline": "Bromatologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "36440-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "36438-06",
+    "discipline": "Nutrição Materno Infantil",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "36439-02",
+    "discipline": "Pesquisa em Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "13286-04",
+    "discipline": "Psicologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "4",
+    "code": "36437-06",
+    "discipline": "Técnica Dietética nos Ciclos da Vida",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "36442-06",
+    "discipline": "Alimentação Coletiva e Saúde",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "36159-02",
+    "discipline": "Educação para Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "3121U-02",
+    "discipline": "Farmacologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "36441-06",
+    "discipline": "Nutrição Clínica e Social I",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "36443-02",
+    "discipline": "Nutrição para o Desporto e Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "33238-02",
+    "discipline": "Patologia",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "5",
+    "code": "43294-04",
+    "discipline": "Tecnologia dos Alimentos",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "6",
+    "code": "36447-08",
+    "discipline": "Estágio Superv. em Aliment. Colet. (240hrs)",
+    "hours": "240"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "6",
+    "code": "36525-04",
+    "discipline": "Gastronomia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "6",
+    "code": "36445-04",
+    "discipline": "Gerenciamento em Nutrição",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "6",
+    "code": "31329-03",
+    "discipline": "Imunologia",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "6",
+    "code": "36444-06",
+    "discipline": "Nutrição Clínica e Social II",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "7",
+    "code": "36450-08",
+    "discipline": "Estág. Superv. em Nutr. na Saúde Col. (240h)",
+    "hours": "240"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "7",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "7",
+    "code": "36449-02",
+    "discipline": "Métodos de Investigação em Nutrição",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "7",
+    "code": "36448-04",
+    "discipline": "Nutrição Clínica e Social III",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "7",
+    "code": "36451-02",
+    "discipline": "Trabalho de Conclusão I",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "8",
+    "code": "36452-08",
+    "discipline": "Estág. Superv. em Nutric. Clínica (240hrs)",
+    "hours": "240"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "8",
+    "code": "15099-04",
+    "discipline": "Filosofia e Bioética",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "8",
+    "code": "36454-04",
+    "discipline": "Inovacao e Desenvolvimento em Nutricao",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "NUTRICAO",
+    "semester": "8",
+    "code": "36453-02",
+    "discipline": "Trabalho de Conclusão II",
+    "hours": "30"
+  }
+]

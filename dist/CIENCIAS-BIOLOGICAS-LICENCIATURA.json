@@ -1,1 +1,426 @@
-[{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"31703-04","discipline":"Biodiversidade","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"31521-03","discipline":"Biologia Celular","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"31730-04","discipline":"Ecologia de Indivíduos e Populações","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"31704-02","discipline":"Introdução À Prática do Biólogo","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"4117A-04","discipline":"Matemática para Ciências Biológicas","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"1","code":"4314F-04","discipline":"Química para Ciências Biológicas","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"4120V-02","discipline":"Bioestatística A","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"31616-02","discipline":"Biofísica","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"31522-04","discipline":"Biologia Tecidual","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"3121S-04","discipline":"Bioquímica Estrutural","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"4223A-04","discipline":"Física para Ciências Biológicas","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"3144I-06","discipline":"Geologia e Paleontologia","hours":"90"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"2","code":"31705-02","discipline":"Oceanologia e Limnologia","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"3141H-04","discipline":"Biologia Molecular","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"3121T-04","discipline":"Bioquímica Metabólica","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"3149A-12","discipline":"Disciplinas Eletivas","hours":"180"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"31723-03","discipline":"Diversidade Viral e Procariótica","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"31707-03","discipline":"Eucariotos Basais","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"31523-04","discipline":"Morfofisiologia Animal I","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"31706-02","discipline":"Métodos Quantitativos em Biologia","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"4623I-02","discipline":"Programação para Ciências Biológicas","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"3","code":"1432K-02","discipline":"Psic. da Educação: Desenvolvimento","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"31724-05","discipline":"Diversidade Animal I","hours":"75"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"31725-04","discipline":"Diversidade Vegetal I","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"31709-04","discipline":"Ecologia de Comunidades e Ecossistemas","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"3142E-04","discipline":"Genética I","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"3142U-03","discipline":"Micologia","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"31524-03","discipline":"Morfofisiologia Animal II","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"4","code":"1432L-04","discipline":"Psic. da Educação: Aprendizagem","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"5","code":"31525-03","discipline":"Anatomia Humana","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"5","code":"31145-04","discipline":"Biologia do Desenvolvimento","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"5","code":"1426J-04","discipline":"Didática","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"5","code":"31726-06","discipline":"Diversidade Vegetal II","hours":"90"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"5","code":"31526-03","discipline":"Genética II","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"3144D-02","discipline":"Biotecnologia","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"31727-05","discipline":"Diversidade Animal II","hours":"75"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"31527-03","discipline":"Fisiologia Humana","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"31714-04","discipline":"Fisiologia Vegetal","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"31347-04","discipline":"Imunologia","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"1216C-04","discipline":"Língua Brasileira de Sinais","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"6","code":"3142Y-04","discipline":"Metodol. e Prática do Ens. de Ciênc. (100h)","hours":"100"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"3144F-04","discipline":"Biologia da Conservação","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"31728-02","discipline":"Estágio Supervisionado no Ensino de Ciências (150h)","hours":"150"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"3142S-04","discipline":"Evolução","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"31618-02","discipline":"Fronteiras da Ciências Biológicas","hours":"30"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"3143D-04","discipline":"Metodol. e Pratica do Ens. de Bio.  (100h)","hours":"100"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"7","code":"3144E-03","discipline":"Parasitologia e Saúde Pública","hours":"45"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"3148B-00","discipline":"Atividades Complementares (200 Horas)","hours":"200"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"31729-02","discipline":"Estágio Supervisionado no Ensino de Biologia (150h)","hours":"150"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"15099-04","discipline":"Filosofia e Bioética","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"1434A-04","discipline":"Organização e Politicas da Educ. Básica","hours":"60"},{"school":"CIENCIAS","course":"CIENCIAS-BIOLOGICAS-LICENCIATURA","semester":"8","code":"31619-04","discipline":"Toxicologia e Farmacologia","hours":"60"}]
+[
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "31703-04",
+    "discipline": "Biodiversidade",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "31521-03",
+    "discipline": "Biologia Celular",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "31730-04",
+    "discipline": "Ecologia de Indivíduos e Populações",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "31704-02",
+    "discipline": "Introdução À Prática do Biólogo",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "4117A-04",
+    "discipline": "Matemática para Ciências Biológicas",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "1",
+    "code": "4314F-04",
+    "discipline": "Química para Ciências Biológicas",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "4120V-02",
+    "discipline": "Bioestatística A",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "31616-02",
+    "discipline": "Biofísica",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "31522-04",
+    "discipline": "Biologia Tecidual",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "3121S-04",
+    "discipline": "Bioquímica Estrutural",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "4223A-04",
+    "discipline": "Física para Ciências Biológicas",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "3144I-06",
+    "discipline": "Geologia e Paleontologia",
+    "hours": "90"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "2",
+    "code": "31705-02",
+    "discipline": "Oceanologia e Limnologia",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "3141H-04",
+    "discipline": "Biologia Molecular",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "3121T-04",
+    "discipline": "Bioquímica Metabólica",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "3149A-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "31723-03",
+    "discipline": "Diversidade Viral e Procariótica",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "31707-03",
+    "discipline": "Eucariotos Basais",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "31523-04",
+    "discipline": "Morfofisiologia Animal I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "31706-02",
+    "discipline": "Métodos Quantitativos em Biologia",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "4623I-02",
+    "discipline": "Programação para Ciências Biológicas",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "3",
+    "code": "1432K-02",
+    "discipline": "Psic. da Educação: Desenvolvimento",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "31724-05",
+    "discipline": "Diversidade Animal I",
+    "hours": "75"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "31725-04",
+    "discipline": "Diversidade Vegetal I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "31709-04",
+    "discipline": "Ecologia de Comunidades e Ecossistemas",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "3142E-04",
+    "discipline": "Genética I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "3142U-03",
+    "discipline": "Micologia",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "31524-03",
+    "discipline": "Morfofisiologia Animal II",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "4",
+    "code": "1432L-04",
+    "discipline": "Psic. da Educação: Aprendizagem",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "5",
+    "code": "31525-03",
+    "discipline": "Anatomia Humana",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "5",
+    "code": "31145-04",
+    "discipline": "Biologia do Desenvolvimento",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "5",
+    "code": "1426J-04",
+    "discipline": "Didática",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "5",
+    "code": "31726-06",
+    "discipline": "Diversidade Vegetal II",
+    "hours": "90"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "5",
+    "code": "31526-03",
+    "discipline": "Genética II",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "3144D-02",
+    "discipline": "Biotecnologia",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "31727-05",
+    "discipline": "Diversidade Animal II",
+    "hours": "75"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "31527-03",
+    "discipline": "Fisiologia Humana",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "31714-04",
+    "discipline": "Fisiologia Vegetal",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "31347-04",
+    "discipline": "Imunologia",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "1216C-04",
+    "discipline": "Língua Brasileira de Sinais",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "6",
+    "code": "3142Y-04",
+    "discipline": "Metodol. e Prática do Ens. de Ciênc. (100h)",
+    "hours": "100"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "3144F-04",
+    "discipline": "Biologia da Conservação",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "31728-02",
+    "discipline": "Estágio Supervisionado no Ensino de Ciências (150h)",
+    "hours": "150"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "3142S-04",
+    "discipline": "Evolução",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "31618-02",
+    "discipline": "Fronteiras da Ciências Biológicas",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "3143D-04",
+    "discipline": "Metodol. e Pratica do Ens. de Bio.  (100h)",
+    "hours": "100"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "7",
+    "code": "3144E-03",
+    "discipline": "Parasitologia e Saúde Pública",
+    "hours": "45"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "3148B-00",
+    "discipline": "Atividades Complementares (200 Horas)",
+    "hours": "200"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "31729-02",
+    "discipline": "Estágio Supervisionado no Ensino de Biologia (150h)",
+    "hours": "150"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "15099-04",
+    "discipline": "Filosofia e Bioética",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "1434A-04",
+    "discipline": "Organização e Politicas da Educ. Básica",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "CIENCIAS-BIOLOGICAS-LICENCIATURA",
+    "semester": "8",
+    "code": "31619-04",
+    "discipline": "Toxicologia e Farmacologia",
+    "hours": "60"
+  }
+]

@@ -1,1 +1,450 @@
-[{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11173-02","discipline":"Hebraico Bíblico","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11172-04","discipline":"Introd. A Sagr. Escritura e Hist. de Israel","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11168-02","discipline":"Metodologia em Teologia","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11171-04","discipline":"Patrologia e Patrística","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11167-04","discipline":"Teologia Fundamental: Epistemologia","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"1","code":"11169-04","discipline":"Teologia Moral Fundamental","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11170-00","discipline":"Atividades Complementares (120 Horas)","hours":"120"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11147-08","discipline":"Disciplina Eletiva","hours":"120"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11177-04","discipline":"Exegese do At: Pentateuco e Históricos","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11178-02","discipline":"Grego Neotestamentário","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11176-04","discipline":"História da Igreja: Primeiro Milenio","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11175-04","discipline":"Moral da Pessoa","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11179-04","discipline":"Seminário Teologia e Ciência","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"2","code":"11174-04","discipline":"Teologia da Revelação","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11119-04","discipline":"Cristologia","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11182-04","discipline":"Exegese do Antigo Testamento: Profetas","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11181-04","discipline":"Exegese do NT: Evangelhos Sinóticos","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11187-04","discipline":"Hist. da Igreja:De Gregório VII Ao Conc. de Trento","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11180-04","discipline":"Moral Social","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"3","code":"11190-04","discipline":"Seminário: Teologia Espiritual","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"11195-04","discipline":"Eclesiologia","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"11185-04","discipline":"Exegese do Antigo Test. : Sapienciais","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"11183-04","discipline":"Exegese do NT: Atos e Cartas Paulinas","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"11188-04","discipline":"Hist. da Igreja: Período Pós-Trento aos Dias Atuais","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"11191-04","discipline":"Seminário: Ecumenismo e Diálogo Inter-religioso","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"4","code":"1111J-04","discipline":"Teologia da Graca","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"1111A-04","discipline":"Direito Canônico: Introd e Livros 1 e 2","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"11184-04","discipline":"Exegese do NT: Evangelho de João e Cartas Joaninas","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"11189-04","discipline":"História da Igreja: na América Latina","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"1111U-04","discipline":"Sacramentos: Introd. e Iniciação Cristã","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"11192-04","discipline":"Seminário: Missiologia e Ministérios","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"5","code":"1111H-04","discipline":"Teologia Moral: Bioética","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"11198-04","discipline":"Antropologia Teologica e Escatologia","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"1111B-04","discipline":"Direito Canônico: Livros 3 A 7","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"11186-04","discipline":"EXEGESE DO NT:AP.,EPÍSTOLAS DEUTEROPAULINAS E CAT.","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"11196-02","discipline":"Mariologia","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"1111K-02","discipline":"Sacramentaria Geral","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"11193-04","discipline":"Seminário: Teologia e Linguagem","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"1111L-04","discipline":"Teologia Trinitaria","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"6","code":"1111M-01","discipline":"Trabalho de Conclusão de Curso (T C C)","hours":"15"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"1111V-02","discipline":"Aconselhamento Pastoral","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"1111C-02","discipline":"Homilética","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"11199-04","discipline":"Liturgia: Fundamentos","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"1111F-04","discipline":"Pastoral e Comunicação","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"11194-04","discipline":"Seminário: Questões Atuais de Pastoral","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"1111D-02","discipline":"Síntese Teológica","hours":"30"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"7","code":"1111P-04","discipline":"Teologia Pastoral","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"8","code":"1111E-04","discipline":"Administração Paroquial","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"8","code":"1111X-04","discipline":"Catequética","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"8","code":"1111T-04","discipline":"Liturgia: Espaço Liturgico e Arte Sacra","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"8","code":"1111R-04","discipline":"Metodologia Pastoral","hours":"60"},{"school":"HUMANIDADES","course":"TEOLOGIA","semester":"8","code":"1111N-04","discipline":"Prática Liturgica","hours":"60"}]
+[
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91106-02",
+    "discipline": "Hebraico Bíblico",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91103-02",
+    "discipline": "História da Teologia",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91105-04",
+    "discipline": "Introdução À Sagrada Escritura e História de Israel",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91102-04",
+    "discipline": "Patrologia e Patrística",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91107-02",
+    "discipline": "Seminário: Teologia e Ciência",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91101-04",
+    "discipline": "Teologia Fundamental e Método em Teologia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "1",
+    "code": "91104-04",
+    "discipline": "Teologia Moral Fundamental",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91109-04",
+    "discipline": "Exegese do Antigo Testamento: Pentateuco e Históricos",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91112-04",
+    "discipline": "Fundamentos de Teologia Pastoral",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91111-04",
+    "discipline": "História da Igreja: Primeiro Milênio",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91110-04",
+    "discipline": "Moral da Pessoa e Direitos Humanos",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91113-02",
+    "discipline": "Seminário: Ecumen. e Diál. Inter - Relig. , Hist. das Religiões",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "2",
+    "code": "91108-04",
+    "discipline": "Teologia da Revelação",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91114-04",
+    "discipline": "Cristologia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91121-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91115-04",
+    "discipline": "Exegese do Antigo Testamento: Literatura Profética",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91116-04",
+    "discipline": "Hist. da Igreja: da Reforma Gregoriana Ao Concílio de Trento",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91119-02",
+    "discipline": "Latim",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91118-02",
+    "discipline": "Mariologia",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91120-02",
+    "discipline": "Seminário: Missiologia e Nova Evangelização",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "3",
+    "code": "91117-04",
+    "discipline": "Teologia Moral: Bioética",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91122-04",
+    "discipline": "Eclesiologia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91128-02",
+    "discipline": "Estágio em Pastoral Social (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91124-04",
+    "discipline": "Exegese do Antigo Testamento: Literatura Sapiencial",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91126-02",
+    "discipline": "Grego Bíblico",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91125-04",
+    "discipline": "História da Igreja: Período Pós - Trento Aos Dias de Hoje",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91123-04",
+    "discipline": "Moral Social e Ecologia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91127-02",
+    "discipline": "Sacramentária Geral",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "4",
+    "code": "91129-02",
+    "discipline": "Seminário: Vocações, Carismas e Ministérios",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91133-04",
+    "discipline": "Catequética",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91134-02",
+    "discipline": "Elaboração do Projeto de Tcc (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91136-02",
+    "discipline": "Estágio em Pastoral Catequética (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91132-04",
+    "discipline": "Exegese do Novo Testamento: Evangelhos Sinóticos",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91135-04",
+    "discipline": "História da Igreja: América Latina",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91131-04",
+    "discipline": "Sacramentos",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "5",
+    "code": "91137-02",
+    "discipline": "Seminário: Teologia Espiritual",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91138-04",
+    "discipline": "Antropologia Teológica: Teologia da Graça",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91139-04",
+    "discipline": "Direito Canônico: Introdução e Livros 1 A 2",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91142-02",
+    "discipline": "Estágio em Pastoral Litúrgica (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91140-04",
+    "discipline": "Exegese do Novo Testamento: Atos e Cartas de Paulo",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91141-02",
+    "discipline": "Homilética",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91143-04",
+    "discipline": "Liturgia: Fundamentos",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "6",
+    "code": "91144-02",
+    "discipline": "Seminário: Teologia e Comunicação",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91145-04",
+    "discipline": "Antropologia Teológica: Criação e Escatologia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91151-04",
+    "discipline": "Direito Canônico: Livros 3 A 7",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91148-02",
+    "discipline": "Estágio em Aconselhamento Pastoral (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91146-04",
+    "discipline": "Exegese do Nt: Evangelho de João e Cartas Joaninas",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91150-04",
+    "discipline": "Liturgia: Prática Celebrativa",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91147-02",
+    "discipline": "Psicologia e Aconselhamento Pastoral",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "7",
+    "code": "91149-02",
+    "discipline": "Trabalho de Conclusão de Curso (50h)",
+    "hours": "50"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91156-04",
+    "discipline": "Administração Paroquial",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91157-00",
+    "discipline": "Atividades Complementares (200 Horas)",
+    "hours": "200"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91154-04",
+    "discipline": "Exegese do Nt: Ap. , Epístolas Deuteropaulinas e Cat.",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91155-04",
+    "discipline": "Liturgia: Tempo e Espaço Litúrgico e Arte Sacra",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91152-02",
+    "discipline": "Síntese Teológica",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "TEOLOGIA",
+    "semester": "8",
+    "code": "91153-04",
+    "discipline": "Teologia Trinitária",
+    "hours": "60"
+  }
+]

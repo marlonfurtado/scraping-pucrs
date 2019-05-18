@@ -1,1 +1,594 @@
-[{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"4115M-04","discipline":"Cálculo Diferencial e Integral I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"48320-02","discipline":"Desenho A","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"4120E-02","discipline":"Estatistica Descritiva","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"4610T-02","discipline":"Ferramentas Computacionais","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"2512A-02","discipline":"Fundamentos de Economia para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"44721-02","discipline":"Gestão Empresarial para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"44720-02","discipline":"Introducao A Engenharia da Producao","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"1","code":"4311P-04","discipline":"Química Geral","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"4443S-04","discipline":"Ciência dos Materiais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"4115N-04","discipline":"Cálculo Diferencial e Integral II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"48321-02","discipline":"Desenho Técnico I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"2512B-02","discipline":"Economia para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"42188-04","discipline":"Mecânica Fundamental","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"44723-02","discipline":"Organizacao Empresarial para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"44722-04","discipline":"Planejamento Empresarial para Engenharia","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"2","code":"4610X-04","discipline":"Programação para Engenharia I - A","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"4115P-02","discipline":"Cálculo Diferencial e Integral III","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"48325-02","discipline":"Desenho Técnico II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"42187-04","discipline":"Eletromagnetismo","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"4471X-02","discipline":"Engenharia Econômica","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"44787-04","discipline":"Gestao de Materiais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"4421P-04","discipline":"Mecânica dos Sólidos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"44788-04","discipline":"Processos de Fabricacao Intermitente I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"3","code":"4115S-02","discipline":"Álgebra Matricial","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"4113S-04","discipline":"Cálculo Numérico A","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"44795-02","discipline":"Engenharia Economica II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"4453V-02","discipline":"Gestao de Energia Eletrica","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"44295-04","discipline":"Mecânica dos Fluidos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"4120G-04","discipline":"Probabilidade","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"44796-02","discipline":"Processos de Fabricacao Intermitente II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"4470A-02","discipline":"Sistemas da Qualidade I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"4","code":"42192-04","discipline":"Termologia e Fluidos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"48330-04","discipline":"Desenho Tecnico III - P","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"4471Y-02","discipline":"Engenharia e Segurança do Trabalho","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"4120M-04","discipline":"Estatistica Inferencial","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"42190-04","discipline":"Ondas e Física Moderna","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"4470E-04","discipline":"Pesquisa Operacional I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"4470G-04","discipline":"Planejamento do Produto","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"5","code":"4470F-04","discipline":"Processos de Fabricacao Continua","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4470S-02","discipline":"Diagnost. e Solucao de Probl. na Producao","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4481Y-02","discipline":"Engenharia Ambiental I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4470Y-04","discipline":"Ergonomia","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4120P-04","discipline":"Estatística Avançada","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4470V-02","discipline":"Gestão do Conhecimento Empresarial","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"4470L-04","discipline":"Planejamento e Controle da Producao","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"6","code":"44792-02","discipline":"Ética e Exercicio Profissional da Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4471A-04","discipline":"Custos da Producao I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4470N-08","discipline":"Disciplinas Eletivas","hours":"120"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4470M-04","discipline":"Pesquisa Operacional II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4471B-02","discipline":"Pratica em Engenharia de Producao I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4120R-04","discipline":"Projeto de Experimentos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"4442U-02","discipline":"Qualidade Dimensional","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"7","code":"44643-02","discipline":"Sistemas Integrados de Fabricacao","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4120T-04","discipline":"Controle Estatistico da Qualidade","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4471G-04","discipline":"Engenharia do Produto","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4471H-02","discipline":"Estagio Supervisionado - Ep (190 Hrs)","hours":"190"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4471F-04","discipline":"Logística dos Processos Produtivos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4470K-04","discipline":"Producao Enxuta","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"8","code":"4470H-02","discipline":"Sistemas da Qualidade II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"44028-00","discipline":"Atividades Complementares (120 Horas)","hours":"120"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"4471U-04","discipline":"Custos da Producao II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"2549X-02","discipline":"Gestao de Servicos Agregados","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"4471J-04","discipline":"Modelagem e Simul. de Sistemas de Prod.","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"4471C-02","discipline":"Pratica em Engenharia de Producao II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"4471L-04","discipline":"Sistemas de Informacao e Apoio A Decisao","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"9","code":"1501A-04","discipline":"Ética e Cidadania","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471N-04","discipline":"Avaliacao do Desempenho da Producao","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"2549W-02","discipline":"Empreendedorismo para Engenheiros","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471K-04","discipline":"Engenharia da Manutencao","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471P-02","discipline":"Etica Empresarial para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471M-02","discipline":"Gestao Ambiental II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4470J-04","discipline":"Gestao do Desenvolvimento de Produtos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471R-02","discipline":"Gestão de Projetos","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-PRODUCAO","semester":"10","code":"4471T-02","discipline":"Trabalho de Conclusao de Curso - Ep","hours":"30"}]
+[
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "95300-04",
+    "discipline": "Cálculo I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "48319-04",
+    "discipline": "Desenho Técnico",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "4120E-02",
+    "discipline": "Estatistica Descritiva",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "2512A-02",
+    "discipline": "Fundamentos de Economia para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "44721-02",
+    "discipline": "Gestão Empresarial para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "44720-02",
+    "discipline": "Introducao A Engenharia da Producao",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "1",
+    "code": "4311P-04",
+    "discipline": "Química Geral",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "4443S-04",
+    "discipline": "Ciência dos Materiais",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "4621L-04",
+    "discipline": "Computação e Solução de Problemas I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "95301-04",
+    "discipline": "Cálculo II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "2512B-02",
+    "discipline": "Economia para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "4610T-02",
+    "discipline": "Ferramentas Computacionais",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "42188-04",
+    "discipline": "Mecânica Fundamental",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "44723-02",
+    "discipline": "Organizacao Empresarial para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "2",
+    "code": "44722-04",
+    "discipline": "Planejamento Empresarial para Engenharia",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "4115P-02",
+    "discipline": "Cálculo Diferencial e Integral III",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "48325-02",
+    "discipline": "Desenho Técnico II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "42187-04",
+    "discipline": "Eletromagnetismo",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "4471X-02",
+    "discipline": "Engenharia Econômica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "44787-04",
+    "discipline": "Gestao de Materiais",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "4421P-04",
+    "discipline": "Mecânica dos Sólidos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "44788-04",
+    "discipline": "Processos de Fabricacao Intermitente I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "3",
+    "code": "4115S-02",
+    "discipline": "Álgebra Matricial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "4113S-04",
+    "discipline": "Cálculo Numérico A",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "44795-02",
+    "discipline": "Engenharia Economica II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "4453V-02",
+    "discipline": "Gestao de Energia Eletrica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "44295-04",
+    "discipline": "Mecânica dos Fluidos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "4120G-04",
+    "discipline": "Probabilidade",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "44796-02",
+    "discipline": "Processos de Fabricacao Intermitente II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "4470A-02",
+    "discipline": "Sistemas da Qualidade I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "4",
+    "code": "42192-04",
+    "discipline": "Termologia e Fluidos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "48330-04",
+    "discipline": "Desenho Tecnico III - P",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "4471Y-02",
+    "discipline": "Engenharia e Segurança do Trabalho",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "4120M-04",
+    "discipline": "Estatistica Inferencial",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "42190-04",
+    "discipline": "Ondas e Física Moderna",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "4470E-04",
+    "discipline": "Pesquisa Operacional I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "4470G-04",
+    "discipline": "Planejamento do Produto",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "5",
+    "code": "4470F-04",
+    "discipline": "Processos de Fabricacao Continua",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4470S-02",
+    "discipline": "Diagnost. e Solucao de Probl. na Producao",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4481Y-02",
+    "discipline": "Engenharia Ambiental I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4470Y-04",
+    "discipline": "Ergonomia",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4120P-04",
+    "discipline": "Estatística Avançada",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4470V-02",
+    "discipline": "Gestão do Conhecimento Empresarial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "4470L-04",
+    "discipline": "Planejamento e Controle da Producao",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "6",
+    "code": "44792-02",
+    "discipline": "Ética e Exercicio Profissional da Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4471A-04",
+    "discipline": "Custos da Producao I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4470N-08",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "120"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4470M-04",
+    "discipline": "Pesquisa Operacional II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4471B-02",
+    "discipline": "Pratica em Engenharia de Producao I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4120R-04",
+    "discipline": "Projeto de Experimentos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "4442U-02",
+    "discipline": "Qualidade Dimensional",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "7",
+    "code": "44643-02",
+    "discipline": "Sistemas Integrados de Fabricacao",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4120T-04",
+    "discipline": "Controle Estatistico da Qualidade",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4471G-04",
+    "discipline": "Engenharia do Produto",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4471H-02",
+    "discipline": "Estagio Supervisionado - Ep (190 Hrs)",
+    "hours": "190"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4471F-04",
+    "discipline": "Logística dos Processos Produtivos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4470K-04",
+    "discipline": "Producao Enxuta",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "8",
+    "code": "4470H-02",
+    "discipline": "Sistemas da Qualidade II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "44028-00",
+    "discipline": "Atividades Complementares (120 Horas)",
+    "hours": "120"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "4471U-04",
+    "discipline": "Custos da Producao II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "2549X-02",
+    "discipline": "Gestao de Servicos Agregados",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "4471J-04",
+    "discipline": "Modelagem e Simul. de Sistemas de Prod.",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "4471C-02",
+    "discipline": "Pratica em Engenharia de Producao II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "4471L-04",
+    "discipline": "Sistemas de Informacao e Apoio A Decisao",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "9",
+    "code": "1501A-04",
+    "discipline": "Ética e Cidadania",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471N-04",
+    "discipline": "Avaliacao do Desempenho da Producao",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "2549W-02",
+    "discipline": "Empreendedorismo para Engenheiros",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471K-04",
+    "discipline": "Engenharia da Manutencao",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471P-02",
+    "discipline": "Etica Empresarial para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471M-02",
+    "discipline": "Gestao Ambiental II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4470J-04",
+    "discipline": "Gestao do Desenvolvimento de Produtos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471R-02",
+    "discipline": "Gestão de Projetos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-PRODUCAO",
+    "semester": "10",
+    "code": "4471T-02",
+    "discipline": "Trabalho de Conclusao de Curso - Ep",
+    "hours": "30"
+  }
+]

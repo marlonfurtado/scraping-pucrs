@@ -1,1 +1,330 @@
-[{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"1","code":"4116A-06","discipline":"Fundamentos de Matemática Elementar","hours":"90"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"1","code":"41171-04","discipline":"Geometria I","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"1","code":"4116C-04","discipline":"Iniciação A Pesquisa em Matemática","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"1","code":"4110R-04","discipline":"Matemática Financeira","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"1","code":"4116B-02","discipline":"Raciocínio Lógico","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"4116W-00","discipline":"Atividades Complementares (120 Horas)","hours":"120"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"4115M-04","discipline":"Cálculo Diferencial e Integral I","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"48329-02","discipline":"Desenho Geométrico para Matemática","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"4114L-12","discipline":"Disciplinas Eletivas","hours":"180"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"4611C-06","discipline":"Fundamentos de Programação","hours":"90"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"41172-04","discipline":"Geometria II","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"2","code":"4116D-04","discipline":"Lógica Matemática","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"3","code":"46502-04","discipline":"Algoritmos e Estruturas de Dados I","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"3","code":"4115N-04","discipline":"Cálculo Diferencial e Integral II","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"3","code":"4637P-02","discipline":"Fundamentos da Computação","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"3","code":"4116F-02","discipline":"Geometria Analítica","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"3","code":"4114G-04","discipline":"Álgebra A","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"4115P-02","discipline":"Cálculo Diferencial e Integral III","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"2515G-04","discipline":"Economia","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"254AA-02","discipline":"Orçamento Empresarial","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"4120B-04","discipline":"Probabilidade e Estatística","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"4210E-04","discipline":"Tópicos de Física Clássica","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"4","code":"4114H-04","discipline":"Álgebra B","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"4115R-04","discipline":"Cálculo Diferencial e Integral IV","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"4115U-02","discipline":"Introdução a Ciência Atuarial","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"4470E-04","discipline":"Pesquisa Operacional I","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"4210F-02","discipline":"Tópicos de Física Moderna","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"5","code":"4114P-04","discipline":"Álgebra Linear","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"6","code":"4115T-04","discipline":"Equac. Diferenc. e Transformadas Integrais","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"6","code":"4120P-04","discipline":"Estatística Avançada","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"6","code":"4116L-04","discipline":"Introdução A Análise Matemática","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"6","code":"254BT-04","discipline":"Planejamento de Negócios","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"6","code":"4116M-02","discipline":"Variáveis Complexas","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"7","code":"4116R-04","discipline":"Análise Matemática","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"7","code":"4113S-04","discipline":"Cálculo Numérico A","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"7","code":"254BX-04","discipline":"Mercado Financeiro","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"7","code":"4470M-04","discipline":"Pesquisa Operacional II","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"8","code":"4116V-02","discipline":"Introdução à Geometria Diferencial","hours":"30"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"8","code":"4116U-04","discipline":"Modelagem Matematica","hours":"60"},{"school":"CIENCIAS","course":"MATEMATICA-EMPRESARIAL","semester":"8","code":"15091-04","discipline":"Ética e Filosofia da Ciência","hours":"60"}]
+[
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "1",
+    "code": "4116A-06",
+    "discipline": "Fundamentos de Matemática Elementar",
+    "hours": "90"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "1",
+    "code": "41171-04",
+    "discipline": "Geometria I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "1",
+    "code": "4116C-04",
+    "discipline": "Iniciação A Pesquisa em Matemática",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "1",
+    "code": "4110R-04",
+    "discipline": "Matemática Financeira",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "1",
+    "code": "4116B-02",
+    "discipline": "Raciocínio Lógico",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "4116W-00",
+    "discipline": "Atividades Complementares (120 Horas)",
+    "hours": "120"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "95300-04",
+    "discipline": "Cálculo I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "48329-02",
+    "discipline": "Desenho Geométrico para Matemática",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "4114L-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "4611C-06",
+    "discipline": "Fundamentos de Programação",
+    "hours": "90"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "41172-04",
+    "discipline": "Geometria II",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "2",
+    "code": "4116D-04",
+    "discipline": "Lógica Matemática",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "3",
+    "code": "46502-04",
+    "discipline": "Algoritmos e Estruturas de Dados I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "3",
+    "code": "95301-04",
+    "discipline": "Cálculo II",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "3",
+    "code": "4637P-02",
+    "discipline": "Fundamentos da Computação",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "3",
+    "code": "4116F-02",
+    "discipline": "Geometria Analítica",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "3",
+    "code": "4114G-04",
+    "discipline": "Álgebra A",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "4115P-02",
+    "discipline": "Cálculo Diferencial e Integral III",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "2515G-04",
+    "discipline": "Economia",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "254AA-02",
+    "discipline": "Orçamento Empresarial",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "95304-04",
+    "discipline": "Probabilidade e Estatística",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "4210E-04",
+    "discipline": "Tópicos de Física Clássica",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "4",
+    "code": "4114H-04",
+    "discipline": "Álgebra B",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "4115R-04",
+    "discipline": "Cálculo Diferencial e Integral IV",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "4115U-02",
+    "discipline": "Introdução a Ciência Atuarial",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "4470E-04",
+    "discipline": "Pesquisa Operacional I",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "4210F-02",
+    "discipline": "Tópicos de Física Moderna",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "5",
+    "code": "4114P-04",
+    "discipline": "Álgebra Linear",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "6",
+    "code": "4120P-04",
+    "discipline": "Estatística Avançada",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "6",
+    "code": "4116L-04",
+    "discipline": "Introdução A Análise Matemática",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "6",
+    "code": "95305-04",
+    "discipline": "Matemática Aplicada",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "6",
+    "code": "254BT-04",
+    "discipline": "Planejamento de Negócios",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "6",
+    "code": "4116M-02",
+    "discipline": "Variáveis Complexas",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "7",
+    "code": "4116R-04",
+    "discipline": "Análise Matemática",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "7",
+    "code": "4113S-04",
+    "discipline": "Cálculo Numérico A",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "7",
+    "code": "254BX-04",
+    "discipline": "Mercado Financeiro",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "7",
+    "code": "4470M-04",
+    "discipline": "Pesquisa Operacional II",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "8",
+    "code": "4116V-02",
+    "discipline": "Introdução à Geometria Diferencial",
+    "hours": "30"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "8",
+    "code": "4116U-04",
+    "discipline": "Modelagem Matematica",
+    "hours": "60"
+  },
+  {
+    "school": "CIENCIAS",
+    "course": "MATEMATICA-EMPRESARIAL",
+    "semester": "8",
+    "code": "15091-04",
+    "discipline": "Ética e Filosofia da Ciência",
+    "hours": "60"
+  }
+]

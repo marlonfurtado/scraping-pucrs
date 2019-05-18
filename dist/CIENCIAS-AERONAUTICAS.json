@@ -1,1 +1,498 @@
-[{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"47312-00","discipline":"Cert. de Conhec. Teo. de Pil. Privado - Avião","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"4220N-06","discipline":"Física para Aeronáutica I","hours":"90"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"1530G-02","discipline":"Geografia Aplicada","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"1521L-04","discipline":"História da Aviação","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"4115B-04","discipline":"Matemática para Ciências Aeronáuticas","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"33134-03","discipline":"Medicina Aeroespacial","hours":"45"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"47216-03","discipline":"Organização do Transporte Aéreo","hours":"45"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"47320-01","discipline":"Tecnicas de Pilotagem - Pc/ Vfr","hours":"15"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"1","code":"1501A-04","discipline":"Ética e Cidadania","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"47123-04","discipline":"Conhecimentos Técnicos de Aeronaves","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"4220P-06","discipline":"Física para Aeronáutica II","hours":"90"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"1255L-04","discipline":"Inglês Aplic. a Aviação I - Intermediário","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"47155-05","discipline":"Navegação Aérea","hours":"75"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"47125-04","discipline":"Regulamento de Tráfego Aéreo Nacional","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"2","code":"47149-04","discipline":"Teoria de Voo de Baixa Velocidade","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47310-00","discipline":"Cert. de Conhec. Teo. de Pil. Com. / Ifr - Avião","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"24291-02","discipline":"Direito Aeroespacial","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47129-08","discipline":"Eletiva em Ciências Aeronáuticas (e)","hours":"120"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47124-02","discipline":"Fraseologia Aeronáutica Nacional","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"1255T-04","discipline":"Inglês Aplic. a Aviação II - Intermediário","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47309-00","discipline":"Licença de Piloto Privado - Avião","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47107-04","discipline":"Meteorologia Aeronáutica I","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47243-04","discipline":"Sistema de Invest. e Prev. de Acidentes","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47156-05","discipline":"Sistemas de Aeronaves","hours":"75"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47136-02","discipline":"Teoria de Voo Alta Velocidade","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"3","code":"47321-02","discipline":"Técnicas de Pilotagem - Pc/ Ifr","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47220-04","discipline":"Emergência, Segurança e Sobrevivência","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47141-02","discipline":"Fraseologia Aeronáutica Internacional","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"1255V-02","discipline":"Inglês Aplic a Aviac. III/ Pré-Avançado","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47219-02","discipline":"Marketing Aplic. ao Transporte Aéreo","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47108-02","discipline":"Meteorologia Aeronáutica II","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47135-02","discipline":"Motores Aeronáuticos","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47322-00","discipline":"Prat. de Voo em Simul.  - Ifr/ Mono (60 H)","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"1312C-02","discipline":"Psicologia Aeronáutica","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47244-04","discipline":"Segurança de Voo para Pilotos","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"4","code":"47143-03","discipline":"Tráfego Aéreo Internacional","hours":"45"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47157-04","discipline":"Aviônica","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"1240D-02","discipline":"Comunicação Aeronáutica","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47116-02","discipline":"Estrutura e Manutenção de Aeronaves","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47246-04","discipline":"Gerenc. de Recursos de Equipes - Crm","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47247-02","discipline":"Gestão Aplicada à Aviação","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47255-02","discipline":"Legislação Aeronáutica","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47311-00","discipline":"Licença de Piloto Comercial - Avião","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47169-04","discipline":"Performance, Peso e Balanc. de Aeronaves","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47331-00","discipline":"Prat de Voo em Sim - Ifr/ Multiloft (6o H)","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47307-02","discipline":"Procedimentos Operacionais de Cockpit","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47251-04","discipline":"Terminologia Técnica Aeronáutica","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47231-01","discipline":"Trabalho de Conclusão de Curso I","hours":"15"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"5","code":"47323-02","discipline":"Técnicas de Pilotagem - Pc/ Multi","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47173-00","discipline":"Atividades Complementares (105 H)","hours":"105"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47342-02","discipline":"Familiarização com Aeronaves Comerciais","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47223-02","discipline":"Filosofia e Estrut. de Operações de Voo","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47254-04","discipline":"Formação do Instrutor de Voo","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47174-03","discipline":"Fraseologia Aeronáutica  - Voo Simulado","hours":"45"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"1255U-02","discipline":"Inglês Aplicado A Aviação IV - Avançado","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47208-02","discipline":"Planejamento do Transporte Aéreo","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47353-00","discipline":"Prat. de Voo em Sim. de Voo - Jet (45 H)","hours":"45"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47172-02","discipline":"Regulamentos de Tráfego Aéreo","hours":"30"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47248-04","discipline":"Sist. de Gestão de Seguranca Operacional","hours":"60"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47234-01","discipline":"Trabalho de Conclusão de Curso II","hours":"15"},{"school":"POLITECNICA","course":"CIENCIAS-AERONAUTICAS","semester":"6","code":"47301-03","discipline":"Técnica de Operação de Jato","hours":"45"}]
+[
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "47312-00",
+    "discipline": "Cert. de Conhec. Teo. de Pil. Privado - Avião",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "4220N-06",
+    "discipline": "Física para Aeronáutica I",
+    "hours": "90"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "1530G-02",
+    "discipline": "Geografia Aplicada",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "1521L-04",
+    "discipline": "História da Aviação",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "4115B-04",
+    "discipline": "Matemática para Ciências Aeronáuticas",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "33134-03",
+    "discipline": "Medicina Aeroespacial",
+    "hours": "45"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "47216-03",
+    "discipline": "Organização do Transporte Aéreo",
+    "hours": "45"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "47320-01",
+    "discipline": "Tecnicas de Pilotagem - Pc/ Vfr",
+    "hours": "15"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "1",
+    "code": "1501A-04",
+    "discipline": "Ética e Cidadania",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "47123-04",
+    "discipline": "Conhecimentos Técnicos de Aeronaves",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "4220P-06",
+    "discipline": "Física para Aeronáutica II",
+    "hours": "90"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "1255L-04",
+    "discipline": "Inglês Aplic. a Aviação I - Intermediário",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "47155-05",
+    "discipline": "Navegação Aérea",
+    "hours": "75"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "47125-04",
+    "discipline": "Regulamento de Tráfego Aéreo Nacional",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "2",
+    "code": "47149-04",
+    "discipline": "Teoria de Voo de Baixa Velocidade",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47310-00",
+    "discipline": "Cert. de Conhec. Teo. de Pil. Com. / Ifr - Avião",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "24291-02",
+    "discipline": "Direito Aeroespacial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47129-08",
+    "discipline": "Eletiva em Ciências Aeronáuticas (e)",
+    "hours": "120"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47124-02",
+    "discipline": "Fraseologia Aeronáutica Nacional",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "1255T-04",
+    "discipline": "Inglês Aplic. a Aviação II - Intermediário",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47309-00",
+    "discipline": "Licença de Piloto Privado - Avião",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47107-04",
+    "discipline": "Meteorologia Aeronáutica I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47243-04",
+    "discipline": "Sistema de Invest. e Prev. de Acidentes",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47156-05",
+    "discipline": "Sistemas de Aeronaves",
+    "hours": "75"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47136-02",
+    "discipline": "Teoria de Voo Alta Velocidade",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "3",
+    "code": "47321-02",
+    "discipline": "Técnicas de Pilotagem - Pc/ Ifr",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47220-04",
+    "discipline": "Emergência, Segurança e Sobrevivência",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47141-02",
+    "discipline": "Fraseologia Aeronáutica Internacional",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "1255V-02",
+    "discipline": "Inglês Aplic a Aviac. III/ Pré-Avançado",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47219-02",
+    "discipline": "Marketing Aplic. ao Transporte Aéreo",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47108-02",
+    "discipline": "Meteorologia Aeronáutica II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47135-02",
+    "discipline": "Motores Aeronáuticos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47322-00",
+    "discipline": "Prat. de Voo em Simul.  - Ifr/ Mono (60 H)",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "1312C-02",
+    "discipline": "Psicologia Aeronáutica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47244-04",
+    "discipline": "Segurança de Voo para Pilotos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "4",
+    "code": "47143-03",
+    "discipline": "Tráfego Aéreo Internacional",
+    "hours": "45"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47157-04",
+    "discipline": "Aviônica",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "1240D-02",
+    "discipline": "Comunicação Aeronáutica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47116-02",
+    "discipline": "Estrutura e Manutenção de Aeronaves",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47246-04",
+    "discipline": "Gerenc. de Recursos de Equipes - Crm",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47247-02",
+    "discipline": "Gestão Aplicada à Aviação",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47255-02",
+    "discipline": "Legislação Aeronáutica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47311-00",
+    "discipline": "Licença de Piloto Comercial - Avião",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47169-04",
+    "discipline": "Performance, Peso e Balanc. de Aeronaves",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47331-00",
+    "discipline": "Prat de Voo em Sim - Ifr/ Multiloft (6o H)",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47307-02",
+    "discipline": "Procedimentos Operacionais de Cockpit",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47251-04",
+    "discipline": "Terminologia Técnica Aeronáutica",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47231-01",
+    "discipline": "Trabalho de Conclusão de Curso I",
+    "hours": "15"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "5",
+    "code": "47323-02",
+    "discipline": "Técnicas de Pilotagem - Pc/ Multi",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47173-00",
+    "discipline": "Atividades Complementares (105 H)",
+    "hours": "105"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47342-02",
+    "discipline": "Familiarização com Aeronaves Comerciais",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47223-02",
+    "discipline": "Filosofia e Estrut. de Operações de Voo",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47254-04",
+    "discipline": "Formação do Instrutor de Voo",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47174-03",
+    "discipline": "Fraseologia Aeronáutica  - Voo Simulado",
+    "hours": "45"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "1255U-02",
+    "discipline": "Inglês Aplicado A Aviação IV - Avançado",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47208-02",
+    "discipline": "Planejamento do Transporte Aéreo",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47353-00",
+    "discipline": "Prat. de Voo em Sim. de Voo - Jet (45 H)",
+    "hours": "45"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47172-02",
+    "discipline": "Regulamentos de Tráfego Aéreo",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47248-04",
+    "discipline": "Sist. de Gestão de Seguranca Operacional",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47234-01",
+    "discipline": "Trabalho de Conclusão de Curso II",
+    "hours": "15"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "CIENCIAS-AERONAUTICAS",
+    "semester": "6",
+    "code": "47301-03",
+    "discipline": "Técnica de Operação de Jato",
+    "hours": "45"
+  }
+]

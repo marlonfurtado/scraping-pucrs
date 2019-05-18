@@ -1,1 +1,490 @@
-[{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"31161-02","discipline":"Anatomia dos Sistemas","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"3711D-02","discipline":"Desenvolvimento Humano","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"3711B-02","discipline":"Educação Física: Mercado de Trabalho e Carreira","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"37174-02","discipline":"Formação Pessoal","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"31235-02","discipline":"Fundamentos de Biofísica","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"31236-02","discipline":"Fundamentos de Bioquímica","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"3711E-02","discipline":"Lazer e Recreação","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"3711A-02","discipline":"Produção do Conhecimento em Educação Física I","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"1","code":"3711F-05","discipline":"Prática Motora de Base I","hours":"75"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"31162-04","discipline":"Anatomia Musculoesquelética","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3711G-03","discipline":"Desenvolvimento Motor","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3120C-04","discipline":"Fisiologia Humana","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3711J-02","discipline":"Jogos Cooperativos e Cultura da Paz","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3711L-04","discipline":"Movimento, Ritmo e Expressão","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3711K-03","discipline":"Produção do Conhecimento em Educação Física II","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"2","code":"3711M-05","discipline":"Prática Motora de Base II","hours":"75"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"3711R-02","discipline":"Atividade Física e Saúde da Criança","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"37115-04","discipline":"Cinesiologia","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"37177-02","discipline":"Conhecimento e Interv. em Ed. Física","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"15099-04","discipline":"Filosofia e Bioética","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"3120H-06","discipline":"Fisiologia do Exercício","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"3711P-03","discipline":"Fundamentos da Psicomotricidade","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"3","code":"3711Q-05","discipline":"Iniciação Esportiva: Metodologias de Ensino","hours":"75"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"37176-02","discipline":"Aprendizagem Motora","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711U-02","discipline":"Atividade Física e Saúde do Adolescente","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711Y-04","discipline":"Bases do Treinamento Físico","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711Z-12","discipline":"Disciplina Eletiva","hours":"180"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711V-04","discipline":"Esporte Técnico - Combinatório: Metodologias de Ensino","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711T-02","discipline":"Fundamentos de Biomecânica","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"36457-02","discipline":"Nutrição Básica","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"3711X-06","discipline":"Programa de Experiência Supervisionada I (Pex I)","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"4","code":"36121-02","discipline":"Trabalho Integrado em Saúde","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712A-03","discipline":"Aspectos Comportamentais do Treinamento Esportivo","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712D-02","discipline":"Atividade Física e Saúde do Adulto","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"37162-02","discipline":"Educação Postural","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712G-03","discipline":"Esporte de Invasão I: Metodologias de Ensino","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712F-03","discipline":"Esporte de Marca I: Metodologias de Ensino","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712C-04","discipline":"História e Diversidade da Educação Física","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712E-06","discipline":"Programa de Experiência Supervisionada II (Pex II)","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"5","code":"3712B-06","discipline":"Técnicas de Avaliação e Treinamento em Academia","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712K-02","discipline":"Atividade Física e Saúde do Idoso","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712H-03","discipline":"Avaliação e Treinamento em Populações Específicas","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"254CG-02","discipline":"Criatividade","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712Q-03","discipline":"Esporte de Invasão Ii: Metodologias de Ensino","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712P-03","discipline":"Esporte de Marca Ii: Metodologias de Ensino","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712L-03","discipline":"Esportes de Combate: Metodologias de Ensino","hours":"45"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712N-02","discipline":"Estudos Olímpicos e Megaeventos Esportivos","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"6","code":"3712M-06","discipline":"Programa de Experiência Supervisionada III (Pex III)","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"7","code":"3712R-02","discipline":"Desenvolvimento de Projetos em Educação Física","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"7","code":"3712U-04","discipline":"Esporte com Rede Divisória: Metodologias de Ensino","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"7","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"7","code":"3712V-06","discipline":"Programa de Experiência Supervisionada IV (Pex IV)","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"7","code":"3712T-06","discipline":"Técnicas de Treinamento em Academia","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3713D-00","discipline":"Atividades Complementares: 120 Horas","hours":"120"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3712X-02","discipline":"Desenvolvimento de Produtos em Educação Física","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3712Z-04","discipline":"Esporte Adaptado","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3713A-04","discipline":"Esportes e Atividades Ao Ar Livre","hours":"60"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3713B-02","discipline":"Estágio Profissional em Educação Física (90h)","hours":"90"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"37184-02","discipline":"Formação Pessoal e Ética Profissional","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"36458-02","discipline":"Nutrição Esportiva","hours":"30"},{"school":"SAUDE","course":"EDUCACAO-FISICA-BACHARELADO","semester":"8","code":"3712W-05","discipline":"Tópicos Especiais em Esporte","hours":"75"}]
+[
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "31161-02",
+    "discipline": "Anatomia dos Sistemas",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "3711D-02",
+    "discipline": "Desenvolvimento Humano",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "3711B-02",
+    "discipline": "Educação Física: Mercado de Trabalho e Carreira",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "37174-02",
+    "discipline": "Formação Pessoal",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "31235-02",
+    "discipline": "Fundamentos de Biofísica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "31236-02",
+    "discipline": "Fundamentos de Bioquímica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "3711E-02",
+    "discipline": "Lazer e Recreação",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "3711A-02",
+    "discipline": "Produção do Conhecimento em Educação Física I",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "1",
+    "code": "3711F-05",
+    "discipline": "Prática Motora de Base I",
+    "hours": "75"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "31162-04",
+    "discipline": "Anatomia Musculoesquelética",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3711G-03",
+    "discipline": "Desenvolvimento Motor",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3120C-04",
+    "discipline": "Fisiologia Humana",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3711J-02",
+    "discipline": "Jogos Cooperativos e Cultura da Paz",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3711L-04",
+    "discipline": "Movimento, Ritmo e Expressão",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3711K-03",
+    "discipline": "Produção do Conhecimento em Educação Física II",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "2",
+    "code": "3711M-05",
+    "discipline": "Prática Motora de Base II",
+    "hours": "75"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "3711R-02",
+    "discipline": "Atividade Física e Saúde da Criança",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "37115-04",
+    "discipline": "Cinesiologia",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "37177-02",
+    "discipline": "Conhecimento e Interv. em Ed. Física",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "15099-04",
+    "discipline": "Filosofia e Bioética",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "3120H-06",
+    "discipline": "Fisiologia do Exercício",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "3711P-03",
+    "discipline": "Fundamentos da Psicomotricidade",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "3",
+    "code": "3711Q-05",
+    "discipline": "Iniciação Esportiva: Metodologias de Ensino",
+    "hours": "75"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "37176-02",
+    "discipline": "Aprendizagem Motora",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711U-02",
+    "discipline": "Atividade Física e Saúde do Adolescente",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711Y-04",
+    "discipline": "Bases do Treinamento Físico",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711Z-12",
+    "discipline": "Disciplina Eletiva",
+    "hours": "180"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711V-04",
+    "discipline": "Esporte Técnico - Combinatório: Metodologias de Ensino",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711T-02",
+    "discipline": "Fundamentos de Biomecânica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "36457-02",
+    "discipline": "Nutrição Básica",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "3711X-06",
+    "discipline": "Programa de Experiência Supervisionada I (Pex I)",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "4",
+    "code": "36121-02",
+    "discipline": "Trabalho Integrado em Saúde",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712A-03",
+    "discipline": "Aspectos Comportamentais do Treinamento Esportivo",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712D-02",
+    "discipline": "Atividade Física e Saúde do Adulto",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "37162-02",
+    "discipline": "Educação Postural",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712G-03",
+    "discipline": "Esporte de Invasão I: Metodologias de Ensino",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712F-03",
+    "discipline": "Esporte de Marca I: Metodologias de Ensino",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712C-04",
+    "discipline": "História e Diversidade da Educação Física",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712E-06",
+    "discipline": "Programa de Experiência Supervisionada II (Pex II)",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "5",
+    "code": "3712B-06",
+    "discipline": "Técnicas de Avaliação e Treinamento em Academia",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712K-02",
+    "discipline": "Atividade Física e Saúde do Idoso",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712H-03",
+    "discipline": "Avaliação e Treinamento em Populações Específicas",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "254CG-02",
+    "discipline": "Criatividade",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712Q-03",
+    "discipline": "Esporte de Invasão Ii: Metodologias de Ensino",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712P-03",
+    "discipline": "Esporte de Marca II: Metodologias de Ensino",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712L-03",
+    "discipline": "Esportes de Combate: Metodologias de Ensino",
+    "hours": "45"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712N-02",
+    "discipline": "Estudos Olímpicos e Megaeventos Esportivos",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "6",
+    "code": "3712M-06",
+    "discipline": "Programa de Experiência Supervisionada III (Pex III)",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "7",
+    "code": "3712R-02",
+    "discipline": "Desenvolvimento de Projetos em Educação Física",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "7",
+    "code": "3712U-04",
+    "discipline": "Esporte com Rede Divisória: Metodologias de Ensino",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "7",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "7",
+    "code": "3712V-06",
+    "discipline": "Programa de Experiência Supervisionada IV (Pex IV)",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "7",
+    "code": "3712T-06",
+    "discipline": "Técnicas de Treinamento em Academia",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3713D-00",
+    "discipline": "Atividades Complementares: 120 Horas",
+    "hours": "120"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3712X-02",
+    "discipline": "Desenvolvimento de Produtos em Educação Física",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3712Z-04",
+    "discipline": "Esporte Adaptado",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3713A-04",
+    "discipline": "Esportes e Atividades Ao Ar Livre",
+    "hours": "60"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3713B-02",
+    "discipline": "Estágio Profissional em Educação Física (90h)",
+    "hours": "90"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "37184-02",
+    "discipline": "Formação Pessoal e Ética Profissional",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "36458-02",
+    "discipline": "Nutrição Esportiva",
+    "hours": "30"
+  },
+  {
+    "school": "SAUDE",
+    "course": "EDUCACAO-FISICA-BACHARELADO",
+    "semester": "8",
+    "code": "3712W-05",
+    "discipline": "Tópicos Especiais em Esporte",
+    "hours": "75"
+  }
+]

@@ -1,1 +1,506 @@
-[{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"24154-04","discipline":"Ciência Política: Estado e Constituição","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"2515B-02","discipline":"Economia Aplicada Ao Direito","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"15090-04","discipline":"Filosofia e Ética Geral","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"24165-02","discipline":"História do Direito","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"24789-02","discipline":"INICIAÇÃO PROF.:AMBIÊNCIA JURÍD-PESQ. E PRÁT(45H)","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"24164-02","discipline":"Sociologia Aplicada Ao Direito","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"1","code":"24153-04","discipline":"Teoria Geral do Direito","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"24643-02","discipline":"Criminologia","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"242AD-04","discipline":"Direito Civil I: Teoria Geral do Direito Civil","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"24166-04","discipline":"Direito Constitucional I: Teoria da Constitucional e Direitos Fundamentais","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"24644-04","discipline":"Direito Penal I: Teoria Geral da Norma Penal","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"24020-12","discipline":"Disciplina Eletiva","hours":"180"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"2","code":"13383-02","discipline":"Psicologia Aplicada Ao Direito","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"3","code":"242AE-04","discipline":"Direito Civil Ii: Direito das Obrigações I","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"3","code":"24167-04","discipline":"Direito Constitucional II: Organização do Estado e dos Poderes","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"3","code":"24645-04","discipline":"Direito Penal Ii: Teoria Geral do Crime","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"3","code":"24580-04","discipline":"TEORIA GERAL DO PROC. E ORGAN. JUDICIÁRIA","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"4","code":"242AF-02","discipline":"Direito Civil III: Direito das Obrigações II","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"4","code":"24168-02","discipline":"Direito Constitucional Iii: Processo Constitucional - Pesquisa e Prática (45h)","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"4","code":"24646-04","discipline":"Direito Penal III: Teoria da Pena","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"4","code":"24581-04","discipline":"Direito Processual Civil I: Processo de Conhecimento - Pesquisa e Prática (75h","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"4","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"242AG-04","discipline":"Direito Civil IV: Teoria Geral dos Contratos","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"242AH-04","discipline":"Direito Empresarial I: Teoria  Geral do Direito Empresarial e das Sociedades","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"24382-04","discipline":"Direito Internacional Público (Semipresencial)","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"24647-04","discipline":"Direito Penal Iv: Crimes de Espécie","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"24582-04","discipline":"Direito Processual Civil Ii: Coisa Julgada e Recursos - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"5","code":"24169-02","discipline":"Legislação e Ética Profissional - Pesquisa e Prática (45h","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"24377-04","discipline":"Direito Administrativo I: Teoria Geral do Direito Administrativo","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"242AI-04","discipline":"Direito Civil V: Contratos em Espécie - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"242AJ-04","discipline":"Direito Empresarial Ii: Sociedades Anônimas","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"24583-04","discipline":"Direito Processual Civil III: Processo de Execução - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"24648-04","discipline":"Direito Processual Penal I: Teoria Geral do Processo Penal - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"6","code":"1214R-01","discipline":"Proficiência em Língua Portuguesa","hours":"15"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"24378-04","discipline":"DIR. ADM. II: REL. JURÍDIC.-ADMINI.","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"24584-02","discipline":"DIR. PROC.CIVIL IV: TUTELA PROVISÓRIA - PESQ. E PRÁT.45H","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"24649-04","discipline":"DIR.PROC.PENAL II:NUL. E M.DE IMP.P. E PR..75H","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"242AK-02","discipline":"Direito Civil Vi: Responsabilidade Civil","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"242AL-02","discipline":"Direito Empresarial III: Títulos de Créditos","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"24442-04","discipline":"Direito do Trabalho I: Relação de Emprego e Contrato de Trabalho","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"7","code":"24170-03","discipline":"Metodologia de Pesquisa Jurídica (Semipresencial)","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"242AM-04","discipline":"D. Empres IV: Falênc. e Recup. de Empres.","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"24443-04","discipline":"D.Trab.II:  Normas de Proteç. do Trab.","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"242AN-04","discipline":"Direito Civil VII: Direitos Reais","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"24585-04","discipline":"Direito Processual Civil V: Ações e Procedimentos Especiais - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"24790-04","discipline":"Prática de Processo Penal Estágio Supervisionado (90h)","hours":"90"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"8","code":"24021-02","discipline":"Trabalho de Conclusão de Curso (140h)","hours":"140"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"24380-02","discipline":"Direito Ambiental","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"242AP-04","discipline":"Direito Civil VIII: Direito de Família","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"24444-04","discipline":"Direito Processual do Trabalho - Pesquisa e Prática (75h)","hours":"75"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"24379-04","discipline":"Direito Tributário I: Fundamentos de Direito Tributário","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"24148-02","discipline":"Filosofia do Direito","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"9","code":"24791-04","discipline":"Prática de Processo Civil - Estágio Supervisionado (90h)","hours":"90"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24022-00","discipline":"Atividades Complementares (200 Horas)","hours":"200"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"242AR-02","discipline":"Direito Civil IX: Direito das Sucessões","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24441-02","discipline":"Direito Coletivo do Trabalho","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24374-02","discipline":"Direito Internacional Privado","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24439-02","discipline":"Direito Previdenciário","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24381-04","discipline":"Direito Tributário Ii: Tributário em Espécie","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"242AT-02","discipline":"Direito do Consumidor","hours":"30"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24172-03","discipline":"Hermenêutica e Argumentação Jurídica (Semipresencial","hours":"45"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24793-02","discipline":"Prática Fiscal - Estágio Supervisionado (60h)","hours":"60"},{"school":"DIREITO","course":"BACHARELADO-EM-DIREITO","semester":"10","code":"24792-02","discipline":"Prática de Processo do Trabalho - Estágio Supervisionado (60h)","hours":"60"}]
+[
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "24154-04",
+    "discipline": "Ciência Política: Estado e Constituição",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "2515B-02",
+    "discipline": "Economia Aplicada Ao Direito",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "15090-04",
+    "discipline": "Filosofia e Ética Geral",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "24165-02",
+    "discipline": "História do Direito",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "24789-02",
+    "discipline": "INICIAÇÃO PROF.:AMBIÊNCIA JURÍD-PESQ. E PRÁT(45H)",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "24164-02",
+    "discipline": "Sociologia Aplicada Ao Direito",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "1",
+    "code": "24153-04",
+    "discipline": "Teoria Geral do Direito",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "24643-02",
+    "discipline": "Criminologia",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "242AD-04",
+    "discipline": "Direito Civil I: Teoria Geral do Direito Civil",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "24166-04",
+    "discipline": "Direito Constitucional I: Teoria da Constitucional e Direitos Fundamentais",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "24644-04",
+    "discipline": "Direito Penal I: Teoria Geral da Norma Penal",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "24020-12",
+    "discipline": "Disciplina Eletiva",
+    "hours": "180"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "2",
+    "code": "13383-02",
+    "discipline": "Psicologia Aplicada Ao Direito",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "3",
+    "code": "242AE-04",
+    "discipline": "Direito Civil Ii: Direito das Obrigações I",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "3",
+    "code": "24167-04",
+    "discipline": "Direito Constitucional II: Organização do Estado e dos Poderes",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "3",
+    "code": "24645-04",
+    "discipline": "Direito Penal Ii: Teoria Geral do Crime",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "3",
+    "code": "24580-04",
+    "discipline": "TEORIA GERAL DO PROC. E ORGAN. JUDICIÁRIA",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "4",
+    "code": "242AF-02",
+    "discipline": "Direito Civil III: Direito das Obrigações II",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "4",
+    "code": "24168-02",
+    "discipline": "Direito Constitucional Iii: Processo Constitucional - Pesquisa e Prática (45h)",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "4",
+    "code": "24646-04",
+    "discipline": "Direito Penal III: Teoria da Pena",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "4",
+    "code": "24581-04",
+    "discipline": "Direito Processual Civil I: Processo de Conhecimento - Pesquisa e Prática (75h",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "4",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "242AG-04",
+    "discipline": "Direito Civil IV: Teoria Geral dos Contratos",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "242AH-04",
+    "discipline": "Direito Empresarial I: Teoria  Geral do Direito Empresarial e das Sociedades",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "24382-04",
+    "discipline": "Direito Internacional Público (Semipresencial)",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "24647-04",
+    "discipline": "Direito Penal Iv: Crimes de Espécie",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "24582-04",
+    "discipline": "Direito Processual Civil Ii: Coisa Julgada e Recursos - Pesquisa e Prática (75h)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "5",
+    "code": "24169-02",
+    "discipline": "Legislação e Ética Profissional - Pesquisa e Prática (45h",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "242AI-04",
+    "discipline": "DIREITO CIVIL V: CONTR. EM ESPÉC.- PESQUISA E PRÁTICA (75h)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "24377-04",
+    "discipline": "Direito Administrativo I: Teoria Geral do Direito Administrativo",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "242AJ-04",
+    "discipline": "Direito Empresarial Ii: Sociedades Anônimas",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "24583-04",
+    "discipline": "Direito Processual Civil III: Processo de Execução - Pesquisa e Prática (75h)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "24648-04",
+    "discipline": "Direito Processual Penal I: Teoria Geral do Processo Penal - Pesquisa e Prática (75h)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "6",
+    "code": "1214R-01",
+    "discipline": "Proficiência em Língua Portuguesa",
+    "hours": "120"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "24378-04",
+    "discipline": "DIR. ADM. II: REL. JURÍDIC.-ADMINI.",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "24584-02",
+    "discipline": "DIR. PROC.CIVIL IV: TUTELA PROVISÓRIA - PESQ. E PRÁT.45H",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "24442-04",
+    "discipline": "DIR. TRAB. I: REL. DE EMP. E CONT. TRAB.",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "24649-04",
+    "discipline": "DIR.PROC.PENAL II:NUL. E M.DE IMP.P. E PR..75H",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "242AK-02",
+    "discipline": "Direito Civil Vi: Responsabilidade Civil",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "242AL-02",
+    "discipline": "Direito Empresarial III: Títulos de Créditos",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "7",
+    "code": "24170-03",
+    "discipline": "Metodologia de Pesquisa Jurídica (Semipresencial)",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "242AM-04",
+    "discipline": "D. Empres IV: Falênc. e Recup. de Empres.",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "24443-04",
+    "discipline": "D.Trab.II:  Normas de Proteç. do Trab.",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "242AN-04",
+    "discipline": "Direito Civil VII: Direitos Reais",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "24585-04",
+    "discipline": "Direito Processual Civil V: Ações e Procedimentos Especiais - Pesquisa e Prática (75h)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "24790-04",
+    "discipline": "Prática de Processo Penal Estágio Supervisionado (90h)",
+    "hours": "90"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "8",
+    "code": "24021-02",
+    "discipline": "Trabalho de Conclusão de Curso (140h)",
+    "hours": "140"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "24444-04",
+    "discipline": "DIR. PROC. TRAB.- PESQ. E PRÁTICA (75H)",
+    "hours": "75"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "24379-04",
+    "discipline": "DIR. TRIBUT. I: FUND.DE DIR. TRIBU.",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "24380-02",
+    "discipline": "Direito Ambiental",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "242AP-04",
+    "discipline": "Direito Civil VIII: Direito de Família",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "24148-02",
+    "discipline": "Filosofia do Direito",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "9",
+    "code": "24791-04",
+    "discipline": "Prática de Processo Civil - Estágio Supervisionado (90h)",
+    "hours": "90"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24022-00",
+    "discipline": "Atividades Complementares (200 Horas)",
+    "hours": "200"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24381-04",
+    "discipline": "D. Tributário Ii: Trib. em Espécie",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "242AR-02",
+    "discipline": "Direito Civil IX: Direito das Sucessões",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24441-02",
+    "discipline": "Direito Coletivo do Trabalho",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24374-02",
+    "discipline": "Direito Internacional Privado",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24439-02",
+    "discipline": "Direito Previdenciário",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "242AT-02",
+    "discipline": "Direito do Consumidor",
+    "hours": "30"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24172-03",
+    "discipline": "Hermenêutica e Argumentação Jurídica (Semipresencial",
+    "hours": "45"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24793-02",
+    "discipline": "Prática Fiscal - Estágio Supervisionado (60h)",
+    "hours": "60"
+  },
+  {
+    "school": "DIREITO",
+    "course": "BACHARELADO-EM-DIREITO",
+    "semester": "10",
+    "code": "24792-02",
+    "discipline": "Prática de Processo do Trabalho - Estágio Supervisionado (60h)",
+    "hours": "60"
+  }
+]

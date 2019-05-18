@@ -1,1 +1,378 @@
-[{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"15359-04","discipline":"Epistemologia da Geografia","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"15360-04","discipline":"Estudos de População","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"15363-04","discipline":"Geografia Cultural","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"1531C-04","discipline":"Geografia Física","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"1531D-04","discipline":"Geografia da Produção e do Consumo","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"1","code":"1531E-01","discipline":"Trabalho de Campo I","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"2","code":"1531H-04","discipline":"Cartografia","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"2","code":"15367-04","discipline":"Climatologia I","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"2","code":"4120A-04","discipline":"Estatística Aplicada à Geografia","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"2","code":"1531G-04","discipline":"Estrutura e Dinâmica da Terra","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"2","code":"1531J-01","discipline":"Trabalho de Campo II","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1532T-00","discipline":"Atividades Complementares (120 Horas)","hours":"120"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1531R-04","discipline":"Cartografia Temática","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1531P-12","discipline":"Disciplinas Eletivas","hours":"180"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1531L-04","discipline":"Geografia das Águas Continentais","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1531W-04","discipline":"Geomorfologia Aplicada à Geografia","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"3","code":"1531T-01","discipline":"Trabalho de Campo III","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1531X-04","discipline":"Aerofotogrametria","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1531K-02","discipline":"Climatologia II","hours":"30"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1531U-04","discipline":"Estudos Rurais","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1531V-04","discipline":"Geografia Regional","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1532B-02","discipline":"Paisagens Climatobotânicas","hours":"30"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"4","code":"1531Z-01","discipline":"Trabalho de Campo IV","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"1531F-04","discipline":"Geografia das Águas Oceânicas","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"1532A-04","discipline":"Geografia dos Territórios","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"15372-02","discipline":"Iniciação a Pesquisa Geográfica","hours":"30"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"1532C-02","discipline":"Proj. Experiment. em Geografia I (55 Hrs)","hours":"55"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"15389-04","discipline":"Sensoriamento Remoto","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"5","code":"1532D-01","discipline":"Trabalho de Campo V","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"15390-04","discipline":"Cidade e Organização Territorial","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"1532E-04","discipline":"Geografia do Brasil","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"1532G-04","discipline":"Metodologia da Pesquisa Geográfica","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"1532J-02","discipline":"Proj. Experiment. em Geografia II (55 Hrs)","hours":"55"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"1532H-04","discipline":"Sistemas de Informações Geográficas","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"6","code":"1532K-01","discipline":"Trabalho de Campo VI","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"15398-04","discipline":"Geografia Ambiental","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"1532L-04","discipline":"Geografia Regional do Brasil","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"1532M-04","discipline":"Geografia e Planejamento Urbano e Amb.","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"15396-04","discipline":"Prat. e Pesquisa de Campo I (Estag. 100h)","hours":"100"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"1531N-04","discipline":"Recursos Naturais e Desenvolvimento Sustentável","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"7","code":"1532N-01","discipline":"Trabalho de Campo VII","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"8","code":"15388-04","discipline":"Geopolítica","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"8","code":"1532R-04","discipline":"Monitoramento Espaço Ambiental","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"8","code":"1532P-02","discipline":"Prática e Pesquisa de Campo II (60 Hrs)","hours":"60"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"8","code":"1532S-01","discipline":"Trabalho de Campo VIII","hours":"15"},{"school":"HUMANIDADES","course":"GEOGRAFIA","semester":"8","code":"1501A-04","discipline":"Ética e Cidadania","hours":"60"}]
+[
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "15359-04",
+    "discipline": "Epistemologia da Geografia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "15360-04",
+    "discipline": "Estudos de População",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "15363-04",
+    "discipline": "Geografia Cultural",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "1531C-04",
+    "discipline": "Geografia Física",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "1531D-04",
+    "discipline": "Geografia da Produção e do Consumo",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "1",
+    "code": "1531E-01",
+    "discipline": "Trabalho de Campo I",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "2",
+    "code": "1531H-04",
+    "discipline": "Cartografia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "2",
+    "code": "15367-04",
+    "discipline": "Climatologia I",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "2",
+    "code": "4120A-04",
+    "discipline": "Estatística Aplicada à Geografia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "2",
+    "code": "1531G-04",
+    "discipline": "Estrutura e Dinâmica da Terra",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "2",
+    "code": "1531J-01",
+    "discipline": "Trabalho de Campo II",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1532T-00",
+    "discipline": "Atividades Complementares (120 Horas)",
+    "hours": "120"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1531R-04",
+    "discipline": "Cartografia Temática",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1531K-02",
+    "discipline": "Climatologia II",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1531P-12",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "180"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1531W-04",
+    "discipline": "Geomorfologia Aplicada à Geografia",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1532B-02",
+    "discipline": "Paisagens Climatobotânicas",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "3",
+    "code": "1531T-01",
+    "discipline": "Trabalho de Campo III",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "4",
+    "code": "1531X-04",
+    "discipline": "Aerofotogrametria",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "4",
+    "code": "1531U-04",
+    "discipline": "Estudos Rurais",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "4",
+    "code": "1531V-04",
+    "discipline": "Geografia Regional",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "4",
+    "code": "1531L-04",
+    "discipline": "Geografia das Águas Continentais",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "4",
+    "code": "1531Z-01",
+    "discipline": "Trabalho de Campo IV",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "1531F-04",
+    "discipline": "Geografia das Águas Oceânicas",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "1532A-04",
+    "discipline": "Geografia dos Territórios",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "15372-02",
+    "discipline": "Iniciação a Pesquisa Geográfica",
+    "hours": "30"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "1532C-02",
+    "discipline": "Proj. Experiment. em Geografia I (55 Hrs)",
+    "hours": "55"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "15389-04",
+    "discipline": "Sensoriamento Remoto",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "5",
+    "code": "1532D-01",
+    "discipline": "Trabalho de Campo V",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "15390-04",
+    "discipline": "Cidade e Organização Territorial",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "1532E-04",
+    "discipline": "Geografia do Brasil",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "1532G-04",
+    "discipline": "Metodologia da Pesquisa Geográfica",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "1532J-02",
+    "discipline": "Proj. Experiment. em Geografia II (55 Hrs)",
+    "hours": "55"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "1532H-04",
+    "discipline": "Sistemas de Informações Geográficas",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "6",
+    "code": "1532K-01",
+    "discipline": "Trabalho de Campo VI",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "15398-04",
+    "discipline": "Geografia Ambiental",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "1532L-04",
+    "discipline": "Geografia Regional do Brasil",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "1532M-04",
+    "discipline": "Geografia e Planejamento Urbano e Amb.",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "15396-04",
+    "discipline": "Prat. e Pesquisa de Campo I (Estag. 100h)",
+    "hours": "100"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "1531N-04",
+    "discipline": "Recursos Naturais e Desenvolvimento Sustentável",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "7",
+    "code": "1532N-01",
+    "discipline": "Trabalho de Campo VII",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "8",
+    "code": "15388-04",
+    "discipline": "Geopolítica",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "8",
+    "code": "1532R-04",
+    "discipline": "Monitoramento Espaço Ambiental",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "8",
+    "code": "1532P-02",
+    "discipline": "Prática e Pesquisa de Campo II (60 Hrs)",
+    "hours": "60"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "8",
+    "code": "1532S-01",
+    "discipline": "Trabalho de Campo VIII",
+    "hours": "15"
+  },
+  {
+    "school": "HUMANIDADES",
+    "course": "GEOGRAFIA",
+    "semester": "8",
+    "code": "1501A-04",
+    "discipline": "Ética e Cidadania",
+    "hours": "60"
+  }
+]

@@ -1,1 +1,658 @@
-[{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"4115M-04","discipline":"Cálculo Diferencial e Integral I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"48321-02","discipline":"Desenho Técnico I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"4610T-02","discipline":"Ferramentas Computacionais","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"44634-02","discipline":"Introdução à Eng. de Controle e Automação","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"42188-04","discipline":"Mecânica Fundamental","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"1","code":"4311P-04","discipline":"Química Geral","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4443S-04","discipline":"Ciência dos Materiais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4115N-04","discipline":"Cálculo Diferencial e Integral II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"48325-02","discipline":"Desenho Técnico II","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4442T-02","discipline":"Desenvolvimento de Projetos","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4442W-08","discipline":"Disciplinas Eletivas","hours":"120"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4421P-04","discipline":"Mecânica dos Sólidos","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4610U-04","discipline":"Programação para Engenharia I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4440K-04","discipline":"Prática de Oficina","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"2","code":"4442U-02","discipline":"Qualidade Dimensional","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4115P-02","discipline":"Cálculo Diferencial e Integral III","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"48326-02","discipline":"Desenho Técnico III - Em","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"42187-04","discipline":"Eletromagnetismo","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4481Y-02","discipline":"Engenharia Ambiental I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"11521-04","discipline":"Humanismo e Cultura Religiosa","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4443R-02","discipline":"Lógica Computacional Aplicada","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4612A-04","discipline":"Programação para Engenharia II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4444H-04","discipline":"Termodinâmica Aplicada","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"3","code":"4115S-02","discipline":"Álgebra Matricial","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4453A-02","discipline":"Circuitos Digitais - Eca","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4115R-04","discipline":"Cálculo Diferencial e Integral IV","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4210B-04","discipline":"Dinâmica do Corpo Rígido","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4115T-04","discipline":"Equac. Diferenc. e Transformadas Integrais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4443U-02","discipline":"Materiais Cerâmicos e Poliméricos","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4443F-04","discipline":"Materiais de Construção Mecânica","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"4","code":"4120B-04","discipline":"Probabilidade e Estatística","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"4459S-04","discipline":"Análise de Circuitos I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"4113S-04","discipline":"Cálculo Numérico A","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"4453F-02","discipline":"Eletrônica Digital - Eca","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"4444N-04","discipline":"Fenômenos de Transporte - Eca","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"4444J-04","discipline":"Mecanismos e Dinâmica de Máquinas","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"44635-02","discipline":"Modelagem de Sistemas Dinâmicos","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"5","code":"42190-04","discipline":"Ondas e Física Moderna","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4459U-04","discipline":"Análise de Circuitos II","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4446F-02","discipline":"Componentes de Máquinas","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4471Y-02","discipline":"Engenharia e Segurança do Trabalho","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4446J-02","discipline":"Fluidomecânica","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"44721-02","discipline":"Gestão Empresarial para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"44653-02","discipline":"Laboratório de Controle","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4445F-02","discipline":"Mecânica do Contínuo","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"4446G-04","discipline":"Processos de Usinagem e Conformação","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"44630-04","discipline":"Sinais e Sistemas","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"6","code":"1501A-04","discipline":"Ética e Cidadania","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"44632-04","discipline":"Análise de Sistemas de Controle","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4445R-04","discipline":"Controle Hidráulico e Pneumático","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4452G-04","discipline":"Eletrônica Analógica - Ec","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4471X-02","discipline":"Engenharia Econômica","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4446K-02","discipline":"Fluidotérmica","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"2512A-02","discipline":"Fundamentos de Economia para Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4459Y-04","discipline":"Processadores I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4446H-02","discipline":"Processos de Soldagem e Fundição","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"4444X-02","discipline":"Projeto Mec. Assist. por Computador (Cad)","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"7","code":"44792-02","discipline":"Ética e Exercicio Profissional da Engenharia","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"445BN-04","discipline":"Eletrônica de Potência","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4445T-02","discipline":"Engenharia Assist. por Computador (Cae)","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4471R-02","discipline":"Gestão de Projetos","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"445AF-04","discipline":"Instrumentação e Aquisição de Sinais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4459G-02","discipline":"Laboratório de Processadores I","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4445L-02","discipline":"Manufatura Assistida por Computador (Cam)","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4445A-02","discipline":"Manutenção Industrial","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"4458K-04","discipline":"Processamento Digital de Sinais","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"8","code":"44633-04","discipline":"Projeto de Sistemas de Controle","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44637-04","discipline":"Automação","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"445HJ-04","discipline":"Conversão de Energia I","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44641-02","discipline":"Estágio Supervisionado - Eca (190 Hrs)","hours":"190"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44638-02","discipline":"Redes e Protocolos Industriais","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44646-04","discipline":"Sistemas Robotizados","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44636-04","discipline":"Sistemas de Controle Digital","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44644-02","discipline":"Sistemas de Fabricação","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"9","code":"44639-04","discipline":"Tópicos Especiais I - Eca","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"44028-00","discipline":"Atividades Complementares (120 Horas)","hours":"120"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"4444P-02","discipline":"Engenharia da Qualidade","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"46241-02","discipline":"Engenharia de Software","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"46242-02","discipline":"Inteligência Artificial","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"44645-04","discipline":"Laboratório de Simulação de Sistemas","hours":"60"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"44642-02","discipline":"Trabalho de Conclusão de Curso - Eca","hours":"30"},{"school":"POLITECNICA","course":"ENGENHARIA-DE-CONTROLE-E-AUTOMACAO","semester":"10","code":"44640-04","discipline":"Tópicos Especiais II - Eca","hours":"60"}]
+[
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "95300-04",
+    "discipline": "Cálculo I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "48321-02",
+    "discipline": "Desenho Técnico I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "4610T-02",
+    "discipline": "Ferramentas Computacionais",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "44634-02",
+    "discipline": "Introdução à Eng. de Controle e Automação",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "42188-04",
+    "discipline": "Mecânica Fundamental",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "1",
+    "code": "4311P-04",
+    "discipline": "Química Geral",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4443S-04",
+    "discipline": "Ciência dos Materiais",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4621L-04",
+    "discipline": "Computação e Solução de Problemas I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "95301-04",
+    "discipline": "Cálculo II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "48325-02",
+    "discipline": "Desenho Técnico II",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4442T-02",
+    "discipline": "Desenvolvimento de Projetos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4442W-08",
+    "discipline": "Disciplinas Eletivas",
+    "hours": "120"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4421P-04",
+    "discipline": "Mecânica dos Sólidos",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4440K-04",
+    "discipline": "Prática de Oficina",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "2",
+    "code": "4442U-02",
+    "discipline": "Qualidade Dimensional",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "4115P-02",
+    "discipline": "Cálculo Diferencial e Integral III",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "48326-02",
+    "discipline": "Desenho Técnico III - Em",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "42187-04",
+    "discipline": "Eletromagnetismo",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "4481Y-02",
+    "discipline": "Engenharia Ambiental I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "11521-04",
+    "discipline": "Humanismo e Cultura Religiosa",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "445AA-04",
+    "discipline": "Integração Hardware/ Software II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "4443R-02",
+    "discipline": "Lógica Computacional Aplicada",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "4444H-04",
+    "discipline": "Termodinâmica Aplicada",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "3",
+    "code": "4115S-02",
+    "discipline": "Álgebra Matricial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "4453A-02",
+    "discipline": "Circuitos Digitais - Eca",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "4115R-04",
+    "discipline": "Cálculo Diferencial e Integral IV",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "4210B-04",
+    "discipline": "Dinâmica do Corpo Rígido",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "95305-04",
+    "discipline": "Matemática Aplicada",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "4443U-02",
+    "discipline": "Materiais Cerâmicos e Poliméricos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "4443F-04",
+    "discipline": "Materiais de Construção Mecânica",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "4",
+    "code": "95304-04",
+    "discipline": "Probabilidade e Estatística",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "4459S-04",
+    "discipline": "Análise de Circuitos I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "4113S-04",
+    "discipline": "Cálculo Numérico A",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "4453F-02",
+    "discipline": "Eletrônica Digital - Eca",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "4444N-04",
+    "discipline": "Fenômenos de Transporte - Eca",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "4444J-04",
+    "discipline": "Mecanismos e Dinâmica de Máquinas",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "44635-02",
+    "discipline": "Modelagem de Sistemas Dinâmicos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "5",
+    "code": "42190-04",
+    "discipline": "Ondas e Física Moderna",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4459U-04",
+    "discipline": "Análise de Circuitos II",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4446F-02",
+    "discipline": "Componentes de Máquinas",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4471Y-02",
+    "discipline": "Engenharia e Segurança do Trabalho",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4446J-02",
+    "discipline": "Fluidomecânica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "44721-02",
+    "discipline": "Gestão Empresarial para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "44653-02",
+    "discipline": "Laboratório de Controle",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4445F-02",
+    "discipline": "Mecânica do Contínuo",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "4446G-04",
+    "discipline": "Processos de Usinagem e Conformação",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "44630-04",
+    "discipline": "Sinais e Sistemas",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "6",
+    "code": "1501A-04",
+    "discipline": "Ética e Cidadania",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "44632-04",
+    "discipline": "Análise de Sistemas de Controle",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4445R-04",
+    "discipline": "Controle Hidráulico e Pneumático",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4452G-04",
+    "discipline": "Eletrônica Analógica - Ec",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4471X-02",
+    "discipline": "Engenharia Econômica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4446K-02",
+    "discipline": "Fluidotérmica",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "2512A-02",
+    "discipline": "Fundamentos de Economia para Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4459Y-04",
+    "discipline": "Processadores I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4446H-02",
+    "discipline": "Processos de Soldagem e Fundição",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "4444X-02",
+    "discipline": "Projeto Mec. Assist. por Computador (Cad)",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "7",
+    "code": "44792-02",
+    "discipline": "Ética e Exercicio Profissional da Engenharia",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "445BN-04",
+    "discipline": "Eletrônica de Potência",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4445T-02",
+    "discipline": "Engenharia Assist. por Computador (Cae)",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4471R-02",
+    "discipline": "Gestão de Projetos",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "445AF-04",
+    "discipline": "Instrumentação e Aquisição de Sinais",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4459G-02",
+    "discipline": "Laboratório de Processadores I",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4445L-02",
+    "discipline": "Manufatura Assistida por Computador (Cam)",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4445A-02",
+    "discipline": "Manutenção Industrial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "4458K-04",
+    "discipline": "Processamento Digital de Sinais",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "8",
+    "code": "44633-04",
+    "discipline": "Projeto de Sistemas de Controle",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44637-04",
+    "discipline": "Automação",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "445HJ-04",
+    "discipline": "Conversão de Energia I",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44641-02",
+    "discipline": "Estágio Supervisionado - Eca (190 Hrs)",
+    "hours": "190"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44638-02",
+    "discipline": "Redes e Protocolos Industriais",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44646-04",
+    "discipline": "Sistemas Robotizados",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44636-04",
+    "discipline": "Sistemas de Controle Digital",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44644-02",
+    "discipline": "Sistemas de Fabricação",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "9",
+    "code": "44639-04",
+    "discipline": "Tópicos Especiais I - Eca",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "44028-00",
+    "discipline": "Atividades Complementares (120 Horas)",
+    "hours": "120"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "4444P-02",
+    "discipline": "Engenharia da Qualidade",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "46241-02",
+    "discipline": "Engenharia de Software",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "46242-02",
+    "discipline": "Inteligência Artificial",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "44645-04",
+    "discipline": "Laboratório de Simulação de Sistemas",
+    "hours": "60"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "44642-02",
+    "discipline": "Trabalho de Conclusão de Curso - Eca",
+    "hours": "30"
+  },
+  {
+    "school": "POLITECNICA",
+    "course": "ENGENHARIA-DE-CONTROLE-E-AUTOMACAO",
+    "semester": "10",
+    "code": "44640-04",
+    "discipline": "Tópicos Especiais II - Eca",
+    "hours": "60"
+  }
+]
