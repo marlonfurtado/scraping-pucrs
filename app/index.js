@@ -71,7 +71,7 @@ app.get('/all', (req, res) => {
                                value.hours !== '')
 
             console.log(`  LOADING ${school}: ${course}... `)
-            const json = JSON.stringify(info)
+            const json = JSON.stringify(info, null, 2)
             fs.writeFile(`./dist/${course}.json`, json, 'utf8', callback)
           })
         })
@@ -87,7 +87,7 @@ function _readCourses() {
       if (err) {
         return reject(err)
       }
-  
+
       const arr = data.replace(/ - /g, ';').split('\n')
       resolve(arr.map(course => _parse(course)))
     })
